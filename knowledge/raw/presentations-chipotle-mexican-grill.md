@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/presentations"
 title: "Presentations - Chipotle Mexican Grill"
 description: "News Releases, Presentations, SEC Filings, Stock Information, Investment Calculator, Historical Stock Price, Analyst Coverage, Insider Transactions, Events"
-scraped_at: "2026-05-06T21:26:59Z"
+scraped_at: "2026-05-06T22:09:17Z"
 ---
 
 ### Your Privacy Preferences
