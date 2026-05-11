@@ -2,8 +2,10 @@
 url: "https://ir.chipotle.com/2025-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2025-RESULTS"
 title: "CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS"
 description: "The forward-looking statements in this press release are based on currently available operating, financial and competitive information available ..."
-scraped_at: "2026-05-10T14:17:16Z"
+scraped_at: "2026-05-11T15:52:54Z"
 ---
+
+[Back to News Releases](https://ir.chipotle.com/news-releases)
 
 CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS
 
@@ -365,41 +367,9 @@ Sorry to see you go. Your request to unsubscribe from all Chipotle promotional e
 
 If you change your mind and wish to re-subscribe to receive future updates and newsletters from Chipotle, simply enter your email address in the form below.
 
-Just a moment...
-
-# ir.chipotle.com
-
-## Performing security verification
-
-This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
-
-Checking your Browser…
-
-Verifying...
-
-Stuck? [Troubleshoot](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/1swsm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto#refresh)
-
-Success!
-
-Verification failed
-
-[Troubleshoot](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/1swsm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto#refresh)
-
-Verification expired
-
-[Refresh](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/1swsm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto#refresh)
-
-Verification expired
-
-[Refresh](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/1swsm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto#refresh)
-
-[Troubleshoot](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/1swsm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto#refresh)
-
-[Privacy](https://www.cloudflare.com/privacypolicy/) • [Help](https://challenges.cloudflare.com/cdn-cgi/challenge-platform/help)
-
-## Verification successful. Waiting for ir.chipotle.com to respond
-
 Cookies are used to support and manage your interactions with our website and process your order. By using our site, you agree to our use of cookies. Learn more in our Privacy Policy.
 
 
 OKAYPRIVACY POLICY
+
+Twitter Widget Iframe
