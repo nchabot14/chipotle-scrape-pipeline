@@ -1,9 +1,21 @@
 ---
-url: "https://ir.chipotle.com/Financial-Releases"
+url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle"
-description: "Apr 29, 2026. CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS ; Apr 27, 2026. CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER ; Mar 17, 2026."
-scraped_at: "2026-05-11T15:52:54Z"
+description: "These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
+scraped_at: "2026-05-13T15:39:54Z"
 ---
+
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+# News Releases
+
+These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
 April 2026
 
@@ -35,7 +47,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/Financial-Releases#)
+[Advanced Search](https://ir.chipotle.com/news-releases#)
 
 Search
 
@@ -53,7 +65,7 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/Financial-Releases#)
+[Basic Search](https://ir.chipotle.com/news-releases#)
 
 - Apr 29, 2026
 
@@ -61,30 +73,53 @@ PhotosAudioDocumentsEventsStandard
 
 [CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
 
+- [![](https://ir.chipotle.com/file.php/768/CincoCampaignPR_SEO.jpg?thumbnail=144)](https://ir.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
+
+
+
+Apr 29, 2026
+
+
+
+[CHIPOTLE BRINGS REAL INGREDIENTS TO CINCO DE MAYO WITH FREE CHIPS AND SIDES](https://ir.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES#assets_20295_122834-3)
+
+- [![](https://mma.prnewswire.com/media/2968503/Chipotle_Teacher_Healthcare_Giftcards.jpg?p=thumbnail)](https://ir.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
+
+
+
+Apr 29, 2026
+
+
+
+[CHIPOTLE TO GIVE AWAY UP TO $2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS#assets_20295_122835-3)
+
 - Apr 27, 2026
 
 
 
 [CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
 
-- Mar 17, 2026
+- [![](https://ir.chipotle.com/file.php/757/1200SustainabilityReportPR.jpg?thumbnail=144)](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
 
 
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026](https://ir.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
-
-- Feb 3, 2026
+Apr 22, 2026
 
 
 
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTS](https://ir.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-- Jan 12, 2026
+[CHIPOTLE REPORTS FIRST CUMULATIVE REAL FOODPRINT RESULTS, INCLUDING OVER 616 MILLION GALLONS OF WATER SAVED IN 2025](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
 
 
 
-[CHIPOTLE ANNOUNCES LEADERSHIP TRANSITIONS](https://ir.chipotle.com/2026-01-12-CHIPOTLE-ANNOUNCES-LEADERSHIP-TRANSITIONS)
-
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122832-3)
 
 Show
 
@@ -92,11 +127,11 @@ Show
 
 per page
 
-- [print](https://ir.chipotle.com/Financial-Releases#print "print")
+- [print](https://ir.chipotle.com/news-releases#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/Financial-Releases#email "email")
+- [email](https://ir.chipotle.com/news-releases#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -130,4 +165,4 @@ OKAYPRIVACY POLICY
 
 Twitter Widget Iframe
 
-[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
+[5](https://ir.chipotle.com/news-releases?l=5) [10](https://ir.chipotle.com/news-releases?l=10) [25](https://ir.chipotle.com/news-releases?l=25) [50](https://ir.chipotle.com/news-releases?l=50) [100](https://ir.chipotle.com/news-releases?l=100)
