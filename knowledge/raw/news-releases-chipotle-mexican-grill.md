@@ -1,8 +1,8 @@
 ---
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
-description: "These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-05-12T15:36:48Z"
+description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
+scraped_at: "2026-05-14T15:13:25Z"
 ---
 
 # News Releases
