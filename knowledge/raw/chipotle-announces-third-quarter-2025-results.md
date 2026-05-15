@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/2025-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2025-RESULTS"
 title: "CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS"
 description: "The forward-looking statements in this press release are based on currently available operating, financial and competitive information available ..."
-scraped_at: "2026-05-11T15:52:54Z"
+scraped_at: "2026-05-15T15:09:30Z"
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)
