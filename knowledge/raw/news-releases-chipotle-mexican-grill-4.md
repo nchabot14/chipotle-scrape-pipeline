@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Apr 29, 2026. CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS ; Apr 27, 2026. CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER ; Mar 17, 2026."
-scraped_at: "2026-05-16T14:19:02Z"
+scraped_at: "2026-05-17T14:22:28Z"
 ---
 
 Month Year
