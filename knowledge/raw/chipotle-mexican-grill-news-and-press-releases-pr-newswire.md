@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
-description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-05-14T15:13:25Z"
+description: "Chipotle Mexican Grill (NYSE: CMG) today announced the return of Chipotle Honey Chicken, which debuted in 2025 as the brand's best-performing... SUIT UP AND ..."
+scraped_at: "2026-05-23T14:25:48Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
