@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-05-27T16:32:55Z"
+scraped_at: "2026-05-28T16:47:56Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -11,31 +11,29 @@ scraped_at: "2026-05-27T16:32:55Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-Month Year
+May 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
-Month Year
+May 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
