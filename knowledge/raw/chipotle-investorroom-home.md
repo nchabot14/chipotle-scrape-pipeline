@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "Apr 29, 2026. CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS ; Apr 27, 2026. CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER ; Mar 17, 2026."
-scraped_at: "2026-05-29T16:36:32Z"
+scraped_at: "2026-05-30T14:24:43Z"
 ---
 
 # Home
@@ -35,9 +35,9 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Apr
 
 NYSECMG
 
-$32.69
+$31.86
 
-$0.38
+-$0.56
 
 Currency in USD.
 
@@ -61,11 +61,11 @@ If you are a Chipotle shareholder and would like to receive your proxy materials
 
 Events
 
-**Chipotle Mexican Grill First Quarter 2026 Results**
+**Bernstein 42nd Annual Strategic Decisions Conference**
 
-**Wednesday, April 29, 2026 at 4:30 p.m. (EDT)**
+**Thursday, May 28, 2026 at 2:30 p.m. (EDT)**
 
-[Listen to the Webcast](https://app.webinar.net/Kv5605dNA3d)
+[Listen to the Webcast](https://event.summitcast.com/view/LCrkJqkW2kWbeKaWQnzTns/guest_book?session_id=EW246KjmRLXQz5ZEXX5dU4)
 
 [CONTACT US](https://ir.chipotle.com/contact-us)
 
