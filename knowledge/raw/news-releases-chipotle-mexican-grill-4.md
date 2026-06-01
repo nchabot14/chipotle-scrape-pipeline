@@ -2,32 +2,40 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Apr 29, 2026. CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS ; Apr 27, 2026. CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER ; Mar 17, 2026."
-scraped_at: "2026-05-18T16:18:23Z"
+scraped_at: "2026-06-01T18:33:37Z"
 ---
 
-April 2026
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 

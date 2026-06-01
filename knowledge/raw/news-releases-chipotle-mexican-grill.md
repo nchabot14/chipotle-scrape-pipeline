@@ -2,36 +2,36 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-05-30T14:24:43Z"
+scraped_at: "2026-06-01T18:33:37Z"
 ---
 
 # News Releases
 
 These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
@@ -58,6 +58,26 @@ Asset Types
 PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
+
+- May 28, 2026
+
+
+
+[CHIPOTLE MEXICAN GRILL TO PARTICIPATE IN THE BERNSTEIN 42ND ANNUAL STRATEGIC DECISIONS CONFERENCE](https://ir.chipotle.com/2026-05-28-CHIPOTLE-MEXICAN-GRILL-TO-PARTICIPATE-IN-THE-BERNSTEIN-42ND-ANNUAL-STRATEGIC-DECISIONS-CONFERENCE)
+
+- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)](https://ir.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+May 28, 2026
+
+
+
+[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE](https://ir.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122838-3)
 
 - Apr 29, 2026
 
@@ -92,26 +112,6 @@ Apr 29, 2026
 
 
   - [PhotosPhotos1](https://ir.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS#assets_20295_122835-3)
-
-- Apr 27, 2026
-
-
-
-[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
-
-- [![](https://ir.chipotle.com/file.php/757/1200SustainabilityReportPR.jpg?thumbnail=144)](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
-
-
-
-Apr 22, 2026
-
-
-
-[CHIPOTLE REPORTS FIRST CUMULATIVE REAL FOODPRINT RESULTS, INCLUDING OVER 616 MILLION GALLONS OF WATER SAVED IN 2025](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122832-3)
 
 Show
 

@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-05-30T14:24:43Z"
+scraped_at: "2026-06-01T18:33:37Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+May 28, 2026
+
+
+
+[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+
+
+The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
 
 - [![](https://newsroom.chipotle.com/image/Graduation_PRAsset__mid.jpg)Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
 
@@ -134,28 +156,6 @@ Digital guests can score free Chips and Queso Blanco or free Chips and Guacamole
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES#assets_20295_122857-117)
-
-- [![](https://mma.prnewswire.com/media/2968503/Chipotle_Teacher_Healthcare_Giftcards.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
-
-
-
-Apr 29, 2026
-
-
-
-[CHIPOTLE TO GIVE AWAY UP TO $2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERSOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
-
-
-
-
-
-To celebrate Teacher Appreciation Week (May 4 through May 8) and National Nurses Week (May 6 through May 12), up to 100,000 healthcare workers and 100,000 teachers, randomly selected and verified...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS#assets_20295_122858-117)
 
 Show
 
