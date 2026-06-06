@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-06-05T15:48:41Z"
+scraped_at: "2026-06-06T14:24:30Z"
 ---
 
 # Home
@@ -35,9 +35,9 @@ Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate i
 
 NYSECMG
 
-$28.78
+$29.34
 
--$0.49
+$1.16
 
 Currency in USD.
 
@@ -61,11 +61,11 @@ If you are a Chipotle shareholder and would like to receive your proxy materials
 
 Events
 
-**Bernstein 42nd Annual Strategic Decisions Conference**
+**Chipotle Mexican Grill Second Quarter 2026 Results**
 
-**Thursday, May 28, 2026 at 2:30 p.m. (EDT)**
+**Wednesday, July 29, 2026 at 4:30 p.m. (EDT)**
 
-[Listen to the Webcast](https://event.summitcast.com/view/LCrkJqkW2kWbeKaWQnzTns/guest_book?session_id=EW246KjmRLXQz5ZEXX5dU4)
+[Listen to the Webcast](https://app.webinar.net/1xylDGAwMKP)
 
 [CONTACT US](https://ir.chipotle.com/contact-us)
 
