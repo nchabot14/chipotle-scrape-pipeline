@@ -2,7 +2,7 @@
 url: "https://newsroomeu.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-05-18T16:18:23Z"
+scraped_at: "2026-06-07T14:46:37Z"
 ---
 
 [Skip to main content](https://newsroomeu.chipotle.com/press-releases#content)
