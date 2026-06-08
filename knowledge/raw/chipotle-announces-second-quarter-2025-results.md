@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/2025-07-23-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2025-RESULTS"
 title: "CHIPOTLE ANNOUNCES SECOND QUARTER 2025 RESULTS"
 description: "HIGHLIGHTS RETURN TO POSITIVE COMPARABLE SALES AND TRANSACTIONS IN JUNE. NEWPORT BEACH, Calif., July 23, 2025 /PRNewswire/ -- Chipotle ..."
-scraped_at: "2026-06-02T17:14:38Z"
+scraped_at: "2026-06-08T16:43:45Z"
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)
