@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
 description: "Chipotle Mexican Grill (NYSE: CMG) today announced the return of Chipotle Honey Chicken, which debuted in 2025 as the brand's best-performing... SUIT UP AND ..."
-scraped_at: "2026-05-28T16:47:56Z"
+scraped_at: "2026-06-09T15:49:59Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,16 +11,15 @@ scraped_at: "2026-05-28T16:47:56Z"
 
 Jump to News Releases:
 
-May 2026
+June 2026
 
 | SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 
 Close
 
@@ -49,6 +48,38 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)\\
+\\
+**Jun 08, 2026, 07:53 ET      CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) is bringing soccer fandom to its restaurants across the U.S., Canada and U.K. this summer with its first-ever...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-kicks-off-summers-biggest-tournament-with-its-first-ever-matchday-bogo-for-fans-wearing-soccer-jerseys-302793463.html)
+
+[![53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)\\
+\\
+**Jun 03, 2026, 07:53 ET      53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced a new campaign, "53 Years. 53 Real Ingredients," tied to New York and San Antonio's championship...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/53-years-53-real-ingredients-chipotle-to-give-away-53-000-free-burritos-for-the-mens-professional-basketball-championship-series-302789661.html)
+
+[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://mmx.prnewswire.com/media/MS800164/cmg-logo-1500.jpg?id=OA2643726&p=thumbnail)\\
+\\
+**Jun 02, 2026, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-second-quarter-2026-results-on-july-29-2026-302788544.html)
+
+[![CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)\\
+\\
+**May 28, 2026, 07:53 ET      CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) announced today that it is bringing back "Summer of Extras," where members can earn free entrees through...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotles-summer-of-extras-returns-with-streak-based-rewards-and-local-rankings-to-gamify-the-rewards-experience-302784230.html)
 
 [![CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
 \\
@@ -217,38 +248,6 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Oct
 For the 2025-26 school year, all student athletes at The Ohio State University, University of Florida and University of Georgia will receive a...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-teams-up-with-elite-college-athletic-programs-to-fuel-student-athletes-with-real-food-302539611.html)
-
-[![INTRODUCING ZIPOTLE: CHIPOTLE PARTNERS WITH ZIPLINE FOR AERIAL DELIVERY](https://mma.prnewswire.com/media/2755028/Zipotle_Final_Photo.jpg?w=300)\\
-\\
-**Aug 21, 2025, 08:06 ET      INTRODUCING ZIPOTLE: CHIPOTLE PARTNERS WITH ZIPLINE FOR AERIAL DELIVERY** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced it is partnering with Zipline, the world's largest autonomous delivery system, to fly digital...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/introducing-zipotle-chipotle-partners-with-zipline-for-aerial-delivery-302535338.html)
-
-[![CHIPOTLE ANNOUNCES SECOND QUARTER 2025 RESULTS](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Jul 23, 2025, 16:10 ET      CHIPOTLE ANNOUNCES SECOND QUARTER 2025 RESULTS** \\
-\\
-Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its second quarter ended June 30, 2025. Second quarter highlights, year ...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-announces-second-quarter-2025-results-302512382.html)
-
-[![CHIPOTLE TO PREMIERE ALEX WARREN'S NEW ALBUM YOU'LL BE ALRIGHT, KID AT RESTAURANTS WORLDWIDE ON JULY 17](https://mma.prnewswire.com/media/2730949/Alex_Warren.jpg?w=300)\\
-\\
-**Jul 15, 2025, 08:02 ET      CHIPOTLE TO PREMIERE ALEX WARREN'S NEW ALBUM YOU'LL BE ALRIGHT, KID AT RESTAURANTS WORLDWIDE ON JULY 17** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced it is teaming up with singer-songwriter and brand superfan Alex Warren to host a first-of-its-kind ...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-to-premiere-alex-warrens-new-album-youll-be-alright-kid-at-restaurants-worldwide-on-july-17-302505134.html)
-
-[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2025 RESULTS ON JULY 23, 2025](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Jun 03, 2025, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2025 RESULTS ON JULY 23, 2025** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 23, 2025 at 4:30 PM Eastern time to discuss second quarter 2025...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-second-quarter-2025-results-on-july-23-2025-302471885.html)
 
 ### Journalists and Bloggers
 
