@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "CHIPOTLE ANNOUNCES FIRST QUARTER. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif.,"
-scraped_at: "2026-06-10T16:29:30Z"
+scraped_at: "2026-06-11T16:45:05Z"
 ---
 
 # Home
@@ -35,9 +35,9 @@ Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate i
 
 NYSECMG
 
-$29.12
+$30.54
 
--$0.23
+$0.12
 
 Currency in USD.
 
