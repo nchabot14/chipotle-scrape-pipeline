@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
 description: "Chipotle Mexican Grill (NYSE: CMG) today announced the return of Chipotle Honey Chicken, which debuted in 2025 as the brand's best-performing... SUIT UP AND ..."
-scraped_at: "2026-06-10T16:29:30Z"
+scraped_at: "2026-06-12T16:11:45Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,41 +11,11 @@ scraped_at: "2026-06-10T16:29:30Z"
 
 Jump to News Releases:
 
-June 2026
-
-| SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
-| --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-
-Close
-
-Click or press the Enter key or the spacebar to open the calendar
-
-Go to previous month
-
-Go to next month
-
-Go to the previous year
-
-Go to the next year
-
-Close the calendar
-
 00:0001:0002:0003:0004:0005:0006:0007:0008:0009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0020:0021:0022:0023:00
-
-00:00
 
 Go
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
-
-25 per page50 per page75 per page100 per page
-
-25 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
 
 ## Latest
 
@@ -263,8 +233,4 @@ In need of subject matter experts for your story? [Submit a free ProfNet request
 
 [LEARN MORE](https://prnmedia.prnewswire.com/)
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
-
-25 per page50 per page75 per page100 per page
-
-25 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
