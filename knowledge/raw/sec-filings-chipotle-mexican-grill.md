@@ -1,8 +1,8 @@
 ---
 url: "https://ir.chipotle.com/sec-filings"
 title: "SEC Filings - Chipotle Mexican Grill"
-description: "Chipotle · Home · Corporate Governance · Board of Directors · Board Committees · Management · News Releases · Presentations · SEC Filings · Stock Information."
-scraped_at: "2026-06-13T14:55:42Z"
+description: "SEC Filings ; DEF 14A, Official notification to shareholders of matters to be brought to a vote (\"Proxy\"), Apr 28, 2026 ; DEFA14A, Additional proxy soliciting ..."
+scraped_at: "2026-06-14T15:04:32Z"
 ---
 
 # SEC Filings
