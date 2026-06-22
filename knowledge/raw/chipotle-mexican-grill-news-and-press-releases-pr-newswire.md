@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
 description: "Chipotle Mexican Grill (NYSE: CMG) today announced the return of Chipotle Honey Chicken, which debuted in 2025 as the brand's best-performing... SUIT UP AND ..."
-scraped_at: "2026-06-14T15:04:32Z"
+scraped_at: "2026-06-22T17:25:50Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,15 +11,45 @@ scraped_at: "2026-06-14T15:04:32Z"
 
 Jump to News Releases:
 
+June 2026
+
+| SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
+| --- | --- | --- | --- | --- | --- | --- |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+
+Close
+
+Click or press the Enter key or the spacebar to open the calendar
+
+Go to previous month
+
+Go to next month
+
+Go to the previous year
+
+Go to the next year
+
+Close the calendar
+
 00:0001:0002:0003:0004:0005:0006:0007:0008:0009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0020:0021:0022:0023:00
+
+00:00
 
 Go
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page
 
 ## Latest
 
-[![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)\\
+[![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&w=300)\\
 \\
 **Jun 08, 2026, 07:53 ET      CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS** \\
 \\
@@ -27,7 +57,7 @@ Chipotle Mexican Grill (NYSE: CMG) is bringing soccer fandom to its restaurants 
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-kicks-off-summers-biggest-tournament-with-its-first-ever-matchday-bogo-for-fans-wearing-soccer-jerseys-302793463.html)
 
-[![53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)\\
+[![53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&w=300)\\
 \\
 **Jun 03, 2026, 07:53 ET      53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES** \\
 \\
@@ -35,7 +65,7 @@ Chipotle Mexican Grill (NYSE: CMG) today announced a new campaign, "53 Years. 53
 \\
 * * *](https://www.prnewswire.com/news-releases/53-years-53-real-ingredients-chipotle-to-give-away-53-000-free-burritos-for-the-mens-professional-basketball-championship-series-302789661.html)
 
-[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://mmx.prnewswire.com/media/MS800164/cmg-logo-1500.jpg?id=OA2643726&p=thumbnail)\\
+[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://mmx.prnewswire.com/media/MS800164/cmg-logo-1500.jpg?id=OA2643726&w=300)\\
 \\
 **Jun 02, 2026, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026** \\
 \\
@@ -43,7 +73,7 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Jul
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-second-quarter-2026-results-on-july-29-2026-302788544.html)
 
-[![CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)\\
+[![CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&w=300)\\
 \\
 **May 28, 2026, 07:53 ET      CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCE** \\
 \\
@@ -233,4 +263,8 @@ In need of subject matter experts for your story? [Submit a free ProfNet request
 
 [LEARN MORE](https://prnmedia.prnewswire.com/)
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page
