@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "CHIPOTLE NEWS RELEASES. News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News ..."
-scraped_at: "2026-06-25T15:36:52Z"
+scraped_at: "2026-06-26T15:20:08Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
