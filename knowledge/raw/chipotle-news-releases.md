@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and ..."
-scraped_at: "2026-07-07T15:39:59Z"
+description: "News releases are archived for three years and are presented in chronological order. 2026 CHIPOTLE'S \"SUMMER OF EXTRAS\" RETURNS,"
+scraped_at: "2026-07-08T15:09:59Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -11,29 +11,29 @@ scraped_at: "2026-07-07T15:39:59Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-June 2026
+July 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 Cancel Go
 
-June 2026
+July 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 Cancel Go
 
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://newsroom.chipotle.com/file.php/181031/Cultivate_Next.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE’S CULTIVATE NEXT FUND INVESTS IN SIX EMERGING COMPANIES BUILDING A MORE RESILIENT FOOD SYSTEMOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+
+
+New investments support entrepreneurs working to advance food systems, climate resilience, regenerative agriculture, supply chain transparency, sustainability measurement and guest experience...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM#assets_20295_122867-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
 
@@ -135,27 +157,6 @@ Chipotle is tying New York and San Antonio's 53-year connection to its real ingr
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
 
-- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
-
-
-
-May 28, 2026
-
-
-
-[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
-
-
-
-
-
-The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
 
 Show
 

@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "CHIPOTLE ANNOUNCES FIRST QUARTER. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif.,"
-scraped_at: "2026-07-07T15:39:59Z"
+scraped_at: "2026-07-08T15:09:59Z"
 ---
 
 # Home

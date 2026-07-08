@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/sec-filings"
 title: "SEC Filings - Chipotle Mexican Grill"
 description: "Releases Presentations SEC Filings Stock Information Investment. Select the filing type and date range you wish to view from the drop-down menus below."
-scraped_at: "2026-07-07T15:39:59Z"
+scraped_at: "2026-07-08T15:09:59Z"
 ---
 
 # SEC Filings
