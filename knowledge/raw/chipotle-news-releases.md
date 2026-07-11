@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "CHIPOTLE NEWS RELEASES. News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News ..."
-scraped_at: "2026-07-10T15:26:10Z"
+scraped_at: "2026-07-11T14:18:21Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATIONOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+
+
+Chipotle’s new PGA TOUR 2K25 Quests will give players the chance to earn free food and unlock exclusive in-game gear1 The integration launches today with Season 7 of PGA TOUR 2K25 Chipotle will...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION#assets_20295_122868-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181031/Cultivate_Next.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
 
@@ -144,19 +166,6 @@ Chipotle is tying New York and San Antonio's 53-year connection to its real ingr
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122864-117)
-
-- Jun 2, 2026
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
-
 
 Show
 

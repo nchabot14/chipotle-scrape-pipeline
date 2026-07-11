@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-07-10T15:26:10Z"
+scraped_at: "2026-07-11T14:18:21Z"
 ---
 
 # Home
@@ -35,9 +35,9 @@ Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate i
 
 NYSECMG
 
-$34.60
+$35.25
 
-$1.17
+$0.65
 
 Currency in USD.
 
