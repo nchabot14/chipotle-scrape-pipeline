@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
-description: "Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Josh Weinstein, effective immediately. Josh Weinstein has ..."
-scraped_at: "2026-07-09T15:52:36Z"
+description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
+scraped_at: "2026-07-13T15:38:20Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
