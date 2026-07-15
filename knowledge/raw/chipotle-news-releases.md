@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "CHIPOTLE NEWS RELEASES. News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News ..."
-scraped_at: "2026-07-13T15:38:20Z"
+description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases."
+scraped_at: "2026-07-15T14:41:40Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+Jul 13, 2026
+
+
+
+[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓNOpens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+
+
+Chipotle and Alsea plan additional openings in Nuevo León this year and expansion into Mexico City in 2027 NEWPORT BEACH, Calif., July 13, 2026 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG)...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122869-117)
 
 - [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
 
@@ -144,28 +166,6 @@ All fans who wear a soccer jersey to Chipotle restaurants in the U.S., Canada an
 
 
   - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS#assets_20295_122865-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-Jun 3, 2026
-
-
-
-[53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIESOpens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-
-
-Chipotle is tying New York and San Antonio's 53-year connection to its real ingredients New York's Josh Hart and Mikal Bridges' go-to high protein orders are featured as limited-time digital menu...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122864-117)
 
 Show
 
