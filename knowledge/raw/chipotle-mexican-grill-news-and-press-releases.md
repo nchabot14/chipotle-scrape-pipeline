@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
 description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-07-13T15:38:20Z"
+scraped_at: "2026-07-16T14:52:35Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -48,6 +48,14 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&w=300)\\
+\\
+**Jul 13, 2026, 16:10 ET      CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that the first Chipotle restaurant in Mexico will open on Thursday, July 16 in San Pedro Garza...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-enters-mexico-with-first-restaurant-in-nuevo-leon-302824162.html)
 
 [![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&w=300)\\
 \\
@@ -240,14 +248,6 @@ Chipotle Mexican Grill (NYSE: CMG) today announced it has signed a joint venture
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 29, 2025 at 4:30 PM Eastern time to discuss third quarter 2025...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-third-quarter-2025-results-on-october-29-2025-302544178.html)
-
-[![CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD](https://mma.prnewswire.com/media/2758742/Chipotle_OSU_Student_Athletes.jpg?w=300)\\
-\\
-**Aug 27, 2025, 07:53 ET      CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD** \\
-\\
-For the 2025-26 school year, all student athletes at The Ohio State University, University of Florida and University of Georgia will receive a...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-teams-up-with-elite-college-athletic-programs-to-fuel-student-athletes-with-real-food-302539611.html)
 
 ### Journalists and Bloggers
 
