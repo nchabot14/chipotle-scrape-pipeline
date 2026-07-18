@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases"
 description: "These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-07-17T14:25:08Z"
+scraped_at: "2026-07-18T14:16:14Z"
 ---
 
 # News Releases
