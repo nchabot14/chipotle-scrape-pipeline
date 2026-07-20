@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS RETURN TO POSITIVE TRANSACTIONS. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif.,"
-scraped_at: "2026-07-19T14:20:29Z"
+scraped_at: "2026-07-20T15:02:17Z"
 ---
 
 # Home
