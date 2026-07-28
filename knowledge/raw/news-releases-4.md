@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases"
 description: "Jul 13, 2026. CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN · Jun 2, 2026. CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29 ..."
-scraped_at: "2026-07-21T14:55:55Z"
+scraped_at: "2026-07-28T15:12:33Z"
 ---
 
 July 2026

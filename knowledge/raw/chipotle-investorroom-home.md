@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS RETURN TO POSITIVE TRANSACTIONS. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif.,"
-scraped_at: "2026-07-27T15:37:01Z"
+scraped_at: "2026-07-28T15:12:33Z"
 ---
 
 # Home
@@ -16,8 +16,6 @@ RECENT NEWS
 [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
 Jul 13, 2026
-
-- [Photos (2)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
 
 [CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
@@ -38,14 +36,6 @@ RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; 
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
-
-$31.79
-
--$0.22
-
-Currency in USD.
-
-Quote data delayed by at least 15 minutes.
 
 2025 ANNUAL
 
@@ -111,5 +101,3 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
-
-Twitter Widget Iframe
