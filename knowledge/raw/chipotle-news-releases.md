@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. FUND INVESTS IN"
-scraped_at: "2026-07-28T15:12:33Z"
+scraped_at: "2026-07-29T15:04:49Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+Jul 27, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUACOpens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+
+
+For the first time ever, Chipotle is pairing free chips with its National Avocado Day guac offer and extending the celebration to two days Digital guests can score free chips and guac with an...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122872-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
 
@@ -144,28 +166,6 @@ New investments support entrepreneurs working to advance food systems, climate r
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM#assets_20295_122867-117)
-
-- [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
-
-
-
-Jun 16, 2026
-
-
-
-[CHIPOTLE AND RIOT GAMES SERVE UP THEIR BIGGEST COLLABORATION YET WITH FIRST-EVER BRANDED LOBBY IN 2XKOOpens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
-
-
-
-
-
-Building on their 2025 collaboration, Chipotle and Riot Games are teaming up for the biggest 2XKO activation yet, giving players new ways to engage through the 2XKO Real Ones Event presented by...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO#assets_20295_122866-117)
 
 Show
 
