@@ -1,8 +1,9 @@
 ---
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
-description: "CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS RETURN TO POSITIVE TRANSACTIONS. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif.,"
-scraped_at: "2026-07-29T15:04:49Z"
+description: "# Home
+\"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
+scraped_at: "2026-07-30T15:03:05Z"
 ---
 
 # Home
@@ -13,11 +14,15 @@ RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
 
+Jul 29, 2026
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+"RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
+
 [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
 Jul 13, 2026
-
-- [Photos (2)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
 
 [CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
@@ -29,23 +34,9 @@ Jun 2, 2026
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
 
-Apr 29, 2026
-
-[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
-
-RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
-
-$33.51
-
-$0.31
-
-Currency in USD.
-
-Quote data delayed by at least 15 minutes.
 
 2025 ANNUAL
 
@@ -111,5 +102,3 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
-
-Twitter Widget Iframe

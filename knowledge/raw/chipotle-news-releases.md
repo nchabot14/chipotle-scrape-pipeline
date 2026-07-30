@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. FUND INVESTS IN"
-scraped_at: "2026-07-29T15:04:49Z"
+scraped_at: "2026-07-30T15:03:05Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
