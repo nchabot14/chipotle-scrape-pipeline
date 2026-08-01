@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "# Home
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-07-31T15:12:39Z"
+scraped_at: "2026-08-01T14:22:30Z"
 ---
 
 # Home
@@ -24,6 +24,8 @@ Jul 29, 2026
 
 Jul 13, 2026
 
+- [Photos (2)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
+
 [CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
 Chipotle and Alsea plan additional openings in Nuevo León this year and expansion into Mexico City in 2027 NEWPORT BEACH, Calif., July 13, 2026 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG)...
@@ -37,6 +39,14 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Jul
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
+
+$37.22
+
+-$1.30
+
+Currency in USD.
+
+Quote data delayed by at least 15 minutes.
 
 2025 ANNUAL
 
@@ -102,3 +112,5 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+Twitter Widget Iframe
