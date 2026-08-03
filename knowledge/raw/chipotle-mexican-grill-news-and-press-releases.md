@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
-description: "Chipotle Mexican Grill (NYSE: CMG) today announced the return of Chipotle Honey Chicken, which debuted in 2025 as the brand's best-performing... SUIT UP AND ..."
-scraped_at: "2026-07-27T15:37:01Z"
+description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
+scraped_at: "2026-08-03T15:37:52Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,15 +11,16 @@ scraped_at: "2026-07-27T15:37:01Z"
 
 Jump to News Releases:
 
-July 2026
+August 2026
 
 | SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Close
 
@@ -48,6 +49,14 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&w=300)\\
+\\
+**Jul 27, 2026, 10:53 ET      CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced it is celebrating National Avocado Day with one of its biggest National Avocado Day offers yet....\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-celebrates-national-avocado-day-with-free-chips-and-guac-302834881.html)
 
 [![CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&w=300)\\
 \\
@@ -240,14 +249,6 @@ hipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its
 Chipotle continues its support of the Fighting Game Community (FGC) as an official launch partner of Riot Games' 2XKO, a next-generation fighting...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-and-riot-games-introduce-the-chipotle-challenger-bundle-in-2xko-302576772.html)
-
-[![CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP](https://mma.prnewswire.com/media/2769542/CMG_Korean.jpg?w=300)\\
-\\
-**Sep 10, 2025, 15:45 ET      CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced it has signed a joint venture to open restaurants in Asia for the first time. In partnership, SPC...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-to-expand-to-asia-for-the-first-time-through-a-joint-venture-with-spc-group-302553062.html)
 
 ### Journalists and Bloggers
 
