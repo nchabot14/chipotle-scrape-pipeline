@@ -3,7 +3,7 @@ url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "# CHIPOTLE NEWS RELEASES
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-08-05T15:08:02Z"
+scraped_at: "2026-08-07T14:05:20Z"
 ---
 
 ### Your Privacy Preferences
@@ -66,7 +66,7 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
 
-- Aug 4, 2026
+- Aug 5, 2026
 
 
 
@@ -76,7 +76,7 @@ PhotosVideoAudioDocumentsEventsStandard
 
 
 
-The health and safety of our guests and employees is our highest priority. We are aware that public health authorities are investigating the source of a Salmonella outbreak in the supply chain...
+The health and safety of our guests and employees is our highest priority. We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting wholesalers...
 
 - Jul 29, 2026
 
