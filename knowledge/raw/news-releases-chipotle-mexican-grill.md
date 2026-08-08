@@ -1,8 +1,8 @@
 ---
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
-description: "These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-07-16T14:52:35Z"
+description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
+scraped_at: "2026-08-08T13:38:10Z"
 ---
 
 # News Releases
@@ -59,6 +59,26 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- Jul 29, 2026
+
+
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+Jul 27, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122845-3)
+
 - [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)](https://ir.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
 
 
@@ -100,27 +120,6 @@ Jun 8, 2026
 
 
   - [PhotosPhotos2](https://ir.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS#assets_20295_122842-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)](https://ir.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-Jun 3, 2026
-
-
-
-[53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES](https://ir.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122841-3)
-
-- Jun 2, 2026
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://ir.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
-
 
 Show
 

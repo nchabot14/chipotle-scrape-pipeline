@@ -3,7 +3,7 @@ url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "# CHIPOTLE NEWS RELEASES
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-08-07T14:05:20Z"
+scraped_at: "2026-08-08T13:38:10Z"
 ---
 
 ### Your Privacy Preferences
