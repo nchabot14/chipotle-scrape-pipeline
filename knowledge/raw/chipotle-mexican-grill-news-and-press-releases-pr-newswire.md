@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
 description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-07-12T14:22:44Z"
+scraped_at: "2026-08-09T13:41:09Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,43 +11,37 @@ scraped_at: "2026-07-12T14:22:44Z"
 
 Jump to News Releases:
 
-July 2026
-
-| SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
-| --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-
-Close
-
-Click or press the Enter key or the spacebar to open the calendar
-
-Go to previous month
-
-Go to next month
-
-Go to the previous year
-
-Go to the next year
-
-Close the calendar
-
 00:0001:0002:0003:0004:0005:0006:0007:0008:0009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0020:0021:0022:0023:00
-
-00:00
 
 Go
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
-
-25 per page50 per page75 per page100 per page
-
-25 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
 
 ## Latest
+
+[![CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&w=300)\\
+\\
+**Jul 27, 2026, 10:53 ET      CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced it is celebrating National Avocado Day with one of its biggest National Avocado Day offers yet....\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-celebrates-national-avocado-day-with-free-chips-and-guac-302834881.html)
+
+[![CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&w=300)\\
+\\
+**Jul 16, 2026, 07:53 ET      CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that it is turning one of soccer's newest matchday traditions into a $1 million burrito giveaway...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-puts-a-new-twist-on-soccers-hydration-break-with-1-million-in-free-burritos-302827104.html)
+
+[![CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&w=300)\\
+\\
+**Jul 13, 2026, 16:10 ET      CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that the first Chipotle restaurant in Mexico will open on Thursday, July 16 in San Pedro Garza...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-enters-mexico-with-first-restaurant-in-nuevo-leon-302824162.html)
 
 [![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&w=300)\\
 \\
@@ -225,30 +219,6 @@ Chipotle continues its support of the Fighting Game Community (FGC) as an offici
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-and-riot-games-introduce-the-chipotle-challenger-bundle-in-2xko-302576772.html)
 
-[![CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP](https://mma.prnewswire.com/media/2769542/CMG_Korean.jpg?w=300)\\
-\\
-**Sep 10, 2025, 15:45 ET      CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced it has signed a joint venture to open restaurants in Asia for the first time. In partnership, SPC...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-to-expand-to-asia-for-the-first-time-through-a-joint-venture-with-spc-group-302553062.html)
-
-[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Sep 02, 2025, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 29, 2025 at 4:30 PM Eastern time to discuss third quarter 2025...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-third-quarter-2025-results-on-october-29-2025-302544178.html)
-
-[![CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD](https://mma.prnewswire.com/media/2758742/Chipotle_OSU_Student_Athletes.jpg?w=300)\\
-\\
-**Aug 27, 2025, 07:53 ET      CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD** \\
-\\
-For the 2025-26 school year, all student athletes at The Ohio State University, University of Florida and University of Georgia will receive a...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-teams-up-with-elite-college-athletic-programs-to-fuel-student-athletes-with-real-food-302539611.html)
-
 ### Journalists and Bloggers
 
 ## The news you need, when you need it.
@@ -263,8 +233,4 @@ In need of subject matter experts for your story? [Submit a free ProfNet request
 
 [LEARN MORE](https://prnmedia.prnewswire.com/)
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
-
-25 per page50 per page75 per page100 per page
-
-25 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
