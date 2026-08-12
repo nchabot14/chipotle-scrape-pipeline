@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases | PR Newswire"
 description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-08-10T14:13:24Z"
+scraped_at: "2026-08-12T14:14:27Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -11,13 +11,52 @@ scraped_at: "2026-08-10T14:13:24Z"
 
 Jump to News Releases:
 
+August 2026
+
+| SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
+| --- | --- | --- | --- | --- | --- | --- |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+
+Close
+
+Click or press the Enter key or the spacebar to open the calendar
+
+Go to previous month
+
+Go to next month
+
+Go to the previous year
+
+Go to the next year
+
+Close the calendar
+
 00:0001:0002:0003:0004:0005:0006:0007:0008:0009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0020:0021:0022:0023:00
+
+00:00
 
 Go
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page
 
 ## Latest
+
+[![CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&w=300)\\
+\\
+**Aug 11, 2026, 07:53 ET      CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME** \\
+\\
+From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-iq-returns-with-more-than-1-million-in-free-chipotle-plus-new-daily-streaks-silver-tickets-and-a-collectible-card-game-302847784.html)
 
 [![CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&w=300)\\
 \\
@@ -211,14 +250,6 @@ hipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-announces-third-quarter-2025-results-302598916.html)
 
-[![CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO](https://i.ytimg.com/vi/5t3oDOZwsvk/hqdefault.jpg)\\
-\\
-**Oct 07, 2025, 11:00 ET      CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO** \\
-\\
-Chipotle continues its support of the Fighting Game Community (FGC) as an official launch partner of Riot Games' 2XKO, a next-generation fighting...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-and-riot-games-introduce-the-chipotle-challenger-bundle-in-2xko-302576772.html)
-
 ### Journalists and Bloggers
 
 ## The news you need, when you need it.
@@ -233,4 +264,8 @@ In need of subject matter experts for your story? [Submit a free ProfNet request
 
 [LEARN MORE](https://prnmedia.prnewswire.com/)
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page
