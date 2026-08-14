@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases"
 description: "News Releases · Aug 11, 2026. CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME."
-scraped_at: "2026-08-13T14:16:01Z"
+scraped_at: "2026-08-14T14:09:12Z"
 ---
 
 # News Releases
