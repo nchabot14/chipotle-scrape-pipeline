@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
 description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-08-14T14:09:12Z"
+scraped_at: "2026-08-16T13:24:04Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -49,6 +49,14 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&w=300)\\
+\\
+**Aug 13, 2026, 07:53 ET      CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced the opening of its first restaurant in the Kingdom of Saudi Arabia (KSA) later this month in...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-debuts-in-saudi-arabia-with-first-restaurant-in-riyadh-302850522.html)
 
 [![CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&w=300)\\
 \\
@@ -241,14 +249,6 @@ Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of
 On the night before Thanksgiving, a popular time for young adults to reconnect with friends, Chipotle will fuel hometown reunions with an...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-reunites-hometown-friends-with-a-buy-one-get-one-bogo-entree-offer-on-thanksgiving-eve-302621409.html)
-
-[![CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Oct 29, 2025, 16:10 ET      CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS** \\
-\\
-hipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its third quarter ended September 30, 2025. Third quarter highlights,...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-announces-third-quarter-2025-results-302598916.html)
 
 ### Journalists and Bloggers
 

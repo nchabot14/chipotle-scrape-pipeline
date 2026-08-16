@@ -3,7 +3,7 @@ url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "# CHIPOTLE NEWS RELEASES
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-08-15T13:22:49Z"
+scraped_at: "2026-08-16T13:24:04Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -57,6 +57,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+Aug 13, 2026
+
+
+
+[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADHOpens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+
+
+The opening at Sidra in Riyadh marks Chipotle's entry into the Kingdom and continues the brand's expansion across the Middle East with franchise partner Alshaya Group NEWPORT BEACH, Calif., Aug....
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122876-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
 
@@ -125,28 +147,6 @@ For the first time ever, Chipotle is pairing free chips with its National Avocad
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122872-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
-
-
-
-Jul 16, 2026
-
-
-
-[CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOSOpens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
-
-
-
-
-
-During the second official hydration break of this summer's international tournament final on July 19, Chipotle will launch its first-ever Chipotle "Water" Break, giving viewers a chance to unlock...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS#assets_20295_122871-117)
 
 Show
 
