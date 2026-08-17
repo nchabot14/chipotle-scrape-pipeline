@@ -3,7 +3,7 @@ url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "# CHIPOTLE NEWS RELEASES
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-08-16T13:24:04Z"
+scraped_at: "2026-08-17T13:32:26Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -57,6 +57,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+Aug 17, 2026
+
+
+
+[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEALOpens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+
+
+On Thursday, August 20, guests wearing school apparel or accessories can receive a BUY-ONE-GET-ONE (BOGO) entrée offer from 3 p.m. to close local time¹ at participating Chipotle restaurants. On...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122877-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
 
@@ -126,27 +148,6 @@ The health and safety of our guests and employees is our highest priority. We ha
 
 "RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
 
-- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
-
-
-
-Jul 27, 2026
-
-
-
-[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUACOpens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
-
-
-
-
-
-For the first time ever, Chipotle is pairing free chips with its National Avocado Day guac offer and extending the celebration to two days Digital guests can score free chips and guac with an...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122872-117)
 
 Show
 
