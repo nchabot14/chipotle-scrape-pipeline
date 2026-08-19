@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
-description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-08-17T13:32:26Z"
+description: "Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial..."
+scraped_at: "2026-08-19T13:36:28Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -49,6 +49,22 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&w=300)\\
+\\
+**07:53 ET      CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today introduced the Salish Matter Order, bringing the creator's favorite Kid's Quesadilla to the Chipotle app and ...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-launches-the-salish-matter-order-inspired-by-one-of-gen-alphas-biggest-celebrities-302854775.html)
+
+[![CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&w=300)\\
+\\
+**Aug 17, 2026, 07:53 ET      CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced a School Spirit BOGO and three consecutive weeks of a "Chipotle Sundays" dinner offer, bringing...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html)
 
 [![CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&w=300)\\
 \\
@@ -233,22 +249,6 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, Febru
 Chipotle Mexican Grill (NYSE: CMG) today announced Unwrap Extra, a series of holiday promotions that will deliver more of what fans love, free...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/unwrap-extra-chipotle-is-gifting-fans-free-food-this-december-302628667.html)
-
-[![CHIPOTLE NAMES JOSH WEINSTEIN TO ITS BOARD OF DIRECTORS](https://mma.prnewswire.com/media/2831508/JOSH_WEINSTEIN.jpg?w=300)\\
-\\
-**Nov 25, 2025, 08:30 ET      CHIPOTLE NAMES JOSH WEINSTEIN TO ITS BOARD OF DIRECTORS** \\
-\\
-Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Josh Weinstein, effective immediately. Josh Weinstein has ...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-names-josh-weinstein-to-its-board-of-directors-302625364.html)
-
-[![CHIPOTLE REUNITES HOMETOWN FRIENDS WITH A BUY-ONE-GET-ONE (BOGO) ENTRÉE OFFER ON THANKSGIVING EVE](https://mma.prnewswire.com/media/2828504/Back_Home_Bogo.jpg?w=300)\\
-\\
-**Nov 20, 2025, 07:53 ET      CHIPOTLE REUNITES HOMETOWN FRIENDS WITH A BUY-ONE-GET-ONE (BOGO) ENTRÉE OFFER ON THANKSGIVING EVE** \\
-\\
-On the night before Thanksgiving, a popular time for young adults to reconnect with friends, Chipotle will fuel hometown reunions with an...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-reunites-hometown-friends-with-a-buy-one-get-one-bogo-entree-offer-on-thanksgiving-eve-302621409.html)
 
 ### Journalists and Bloggers
 
