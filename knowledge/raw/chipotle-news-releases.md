@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ..."
-scraped_at: "2026-08-20T13:38:21Z"
+scraped_at: "2026-08-21T13:37:38Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
