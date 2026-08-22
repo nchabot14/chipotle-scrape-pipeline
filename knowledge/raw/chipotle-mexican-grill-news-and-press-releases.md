@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
-description: "Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial..."
-scraped_at: "2026-08-19T13:36:28Z"
+description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
+scraped_at: "2026-08-22T13:24:17Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
