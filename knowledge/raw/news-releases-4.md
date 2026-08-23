@@ -2,32 +2,34 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases"
 description: "CHIPOTLE RAISES FULL YEAR COMPARABLE SALES. RESULTS ON JULY 29, CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS Apr 27,"
-scraped_at: "2026-08-01T14:22:30Z"
+scraped_at: "2026-08-23T13:25:07Z"
 ---
 
-July 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-July 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
