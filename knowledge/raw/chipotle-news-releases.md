@@ -2,18 +2,10 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ..."
-scraped_at: "2026-08-24T13:42:21Z"
+scraped_at: "2026-08-25T13:40:39Z"
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -64,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+Aug 24, 2026
+
+
+
+[CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORKOpens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+
+
+Chipotle is teaming up with superfan and top-ranked U.S. men's tennis player Taylor Fritz to launch "Every Win Tastes Better," giving fans a chance to score BUY-ONE-GET-ONE (BOGO) entrée offers...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK#assets_20295_122880-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
 
@@ -152,19 +166,6 @@ From August 18 through August 20, Chipotle Rewards members can put their brand k
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122875-117)
-
-- Aug 5, 2026
-
-
-
-[A Statement from Chipotle on Food SafetyOpens in new window](https://newsroom.chipotle.com/2026-08-04-A-Statement-from-Chipotle-on-Food-Safety)
-
-
-
-
-
-The health and safety of our guests and employees is our highest priority. We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting wholesalers...
-
 
 Show
 

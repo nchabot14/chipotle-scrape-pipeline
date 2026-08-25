@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-08-18T13:35:09Z"
+scraped_at: "2026-08-25T13:40:39Z"
 ---
 
 # News Releases
@@ -59,6 +59,34 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- [![](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&p=thumbnail)](https://ir.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+Aug 24, 2026
+
+
+
+[CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK](https://ir.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+  - [PhotosPhotos2](https://ir.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK#assets_20295_122851-3)
+
+- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+Aug 19, 2026
+
+
+
+[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122850-3)
+
 - [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)](https://ir.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
 
 
@@ -100,26 +128,6 @@ Aug 11, 2026
 
 
   - [PhotosPhotos1](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122847-3)
-
-- Jul 29, 2026
-
-
-
-[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
-
-- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
-
-
-
-Jul 27, 2026
-
-
-
-[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122845-3)
 
 Show
 
