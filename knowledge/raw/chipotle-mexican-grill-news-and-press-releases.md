@@ -1,8 +1,8 @@
 ---
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
-description: "Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its first quarter ended March 31, 2026. First quarter highlights, year..."
-scraped_at: "2026-08-24T13:42:21Z"
+description: "Chipotle Mexican Grill (NYSE: CMG) today announced a School Spirit BOGO and three consecutive weeks of a \"Chipotle Sundays\" dinner offer, bringing... CHIPOTLE ..."
+scraped_at: "2026-08-26T13:45:17Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
