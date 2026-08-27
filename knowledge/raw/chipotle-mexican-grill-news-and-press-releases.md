@@ -2,7 +2,7 @@
 url: "https://www.prnewswire.com/news/chipotle-mexican-grill/"
 title: "Chipotle Mexican Grill News and Press Releases"
 description: "Chipotle Mexican Grill (NYSE: CMG) today announced a School Spirit BOGO and three consecutive weeks of a \"Chipotle Sundays\" dinner offer, bringing... CHIPOTLE ..."
-scraped_at: "2026-08-26T13:45:17Z"
+scraped_at: "2026-08-27T22:41:49Z"
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -49,6 +49,14 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&w=300)\\
+\\
+**Aug 24, 2026, 07:53 ET      CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK** \\
+\\
+Chipotle is teaming up with superfan and top-ranked U.S. men's tennis player Taylor Fritz to launch "Every Win Tastes Better," giving fans a chance...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-drops-bogos-every-time-taylor-fritz-wins-as-he-chases-history-in-new-york-302858005.html)
 
 [![CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&w=300)\\
 \\
@@ -241,14 +249,6 @@ Chipotle Mexican Grill (NYSE: CMG) today announced the opening of its 4,000th re
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, February 3, 2026 at 4:30 PM Eastern time to discuss fourth quarter and...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-fourth-quarter-and-full-year-2025-results-on-february-3-2026-302630429.html)
-
-[![UNWRAP EXTRA: CHIPOTLE IS GIFTING FANS FREE FOOD THIS DECEMBER](https://mma.prnewswire.com/media/2833134/Chipotle_Unwrap_Extra_Promo.jpg?w=300)\\
-\\
-**Dec 01, 2025, 07:53 ET      UNWRAP EXTRA: CHIPOTLE IS GIFTING FANS FREE FOOD THIS DECEMBER** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced Unwrap Extra, a series of holiday promotions that will deliver more of what fans love, free...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/unwrap-extra-chipotle-is-gifting-fans-free-food-this-december-302628667.html)
 
 ### Journalists and Bloggers
 
