@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-08-25T13:40:39Z"
+scraped_at: "2026-08-30T17:04:30Z"
 ---
 
 # News Releases
@@ -59,6 +59,20 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- [![](https://mmx.prnewswire.com/media/MS1975522/DoubleProteinPR.jpg?id=OA2910991&p=thumbnail)](https://ir.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
+
+
+
+Aug 26, 2026
+
+
+
+[CHIPOTLE OFFERS FREE DOUBLE PROTEIN ON AUGUST 27 TO CELEBRATE CHIPOTLE HONEY CHICKEN'S FINAL WEEK](https://ir.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK#assets_20295_122852-3)
+
 - [![](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&p=thumbnail)](https://ir.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
 
 
@@ -114,20 +128,6 @@ Aug 13, 2026
 
 
   - [PhotosPhotos1](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122848-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
-
-
-
-Aug 11, 2026
-
-
-
-[CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122847-3)
 
 Show
 
