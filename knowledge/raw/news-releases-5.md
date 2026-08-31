@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases"
 description: "CHIPOTLE RAISES FULL YEAR COMPARABLE SALES. RESULTS ON JULY 29, CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS Apr 27,"
-scraped_at: "2026-08-29T16:55:25Z"
+scraped_at: "2026-08-31T19:18:30Z"
 ---
 
 August 2026
