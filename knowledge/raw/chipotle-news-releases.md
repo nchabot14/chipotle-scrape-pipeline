@@ -1,11 +1,19 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ..."
-scraped_at: "2026-08-31T19:18:30Z"
+description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Years GoAlerts100News Releases50"
+scraped_at: "2026-09-01T17:04:06Z"
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -56,6 +64,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+Aug 31, 2026
+
+
+
+[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPSOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+
+
+For the first time in brand history, Chipotle is launching two limited-time menu items simultaneously: Pollo Asado and Chili Lime Chips Pollo Asado returns August 31 with an all-new recipe,...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122883-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181138/Creator+PR+1+1000px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
+
+
+
+Aug 31, 2026
+
+
+
+[CHIPOTLE HANDS THE CAMERAS TO 100 CREATORS FOR ITS NEW NATIONAL AD CAMPAIGNOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
+
+
+
+
+
+The next evolution of Behind the Foil was captured entirely by creators, with zero brand-shot footage and no traditional director or production company managing the shoot The campaign marks Chief...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN#assets_20295_122882-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1975522/DoubleProteinPR.jpg?id=OA2910991&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
 
@@ -122,50 +174,6 @@ The Salish Matter Order features a Kid's Cheese Quesadilla with white rice, blac
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122879-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
-
-
-
-Aug 17, 2026
-
-
-
-[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEALOpens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
-
-
-
-
-
-On Thursday, August 20, guests wearing school apparel or accessories can receive a BUY-ONE-GET-ONE (BOGO) entrée offer from 3 p.m. to close local time¹ at participating Chipotle restaurants. On...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122877-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
-
-
-
-Aug 13, 2026
-
-
-
-[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADHOpens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
-
-
-
-
-
-The opening at Sidra in Riyadh marks Chipotle's entry into the Kingdom and continues the brand's expansion across the Middle East with franchise partner Alshaya Group NEWPORT BEACH, Calif., Aug....
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122876-117)
 
 Show
 

@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-08-30T17:04:30Z"
+scraped_at: "2026-09-01T17:04:06Z"
 ---
 
 # News Releases
@@ -59,6 +59,20 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+Aug 31, 2026
+
+
+
+[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPS](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+  - [PhotosPhotos3](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122853-3)
+
 - [![](https://mmx.prnewswire.com/media/MS1975522/DoubleProteinPR.jpg?id=OA2910991&p=thumbnail)](https://ir.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
 
 
@@ -114,20 +128,6 @@ Aug 17, 2026
 
 
   - [PhotosPhotos2](https://ir.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122849-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
-
-
-
-Aug 13, 2026
-
-
-
-[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122848-3)
 
 Show
 

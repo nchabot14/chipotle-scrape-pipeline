@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "# Home
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-08-31T19:18:30Z"
+scraped_at: "2026-09-01T17:04:06Z"
 ---
 
 # Home
@@ -40,9 +40,9 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Jul
 
 NYSECMG
 
-$38.03
+$38.06
 
-$0.81
+$0.03
 
 Currency in USD.
 
