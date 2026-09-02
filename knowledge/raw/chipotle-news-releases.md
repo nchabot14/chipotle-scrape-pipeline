@@ -2,46 +2,38 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Years GoAlerts100News Releases50"
-scraped_at: "2026-09-01T17:04:06Z"
+scraped_at: "2026-09-02T16:55:09Z"
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
@@ -64,6 +56,40 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
+
+
+
+Sep 2, 2026
+
+
+
+[CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOULOpens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
+
+
+
+
+
+The opening marks a significant milestone in Chipotle's global expansion, establishing South Korea as a reference market for future growth across Asia The joint venture established by Chipotle and...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL#assets_20295_122885-117)
+
+- Sep 1, 2026
+
+
+
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026Opens in new window](https://newsroom.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
+
+
+
+
+
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results and provide a business update for the...
 
 - [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
 
@@ -130,50 +156,6 @@ On Thursday, August 27, guests in the U.S. and Canada can receive free double pr
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK#assets_20295_122881-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
-
-
-
-Aug 24, 2026
-
-
-
-[CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORKOpens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
-
-
-
-
-
-Chipotle is teaming up with superfan and top-ranked U.S. men's tennis player Taylor Fritz to launch "Every Win Tastes Better," giving fans a chance to score BUY-ONE-GET-ONE (BOGO) entrée offers...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK#assets_20295_122880-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
-
-
-
-Aug 19, 2026
-
-
-
-[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIESOpens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
-
-
-
-
-
-The Salish Matter Order features a Kid's Cheese Quesadilla with white rice, black beans and guac, served with kid's chips and chocolate milk, available exclusively in the Chipotle app and on...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122879-117)
 
 Show
 

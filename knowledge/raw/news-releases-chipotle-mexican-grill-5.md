@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Jul 29, 2026. CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM ; Jun 2, 2026. CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 ..."
-scraped_at: "2026-09-01T17:04:06Z"
+scraped_at: "2026-09-02T16:55:09Z"
 ---
 
 August 2026
