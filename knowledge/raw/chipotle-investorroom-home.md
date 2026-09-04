@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "# Home
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-09-03T16:45:36Z"
+scraped_at: "2026-09-04T16:39:59Z"
 ---
 
 # Home
@@ -40,9 +40,9 @@ Chipotle and Alsea plan additional openings in Nuevo León this year and expansi
 
 NYSECMG
 
-$37.51
+$37.57
 
--$0.52
+-$0.95
 
 Currency in USD.
 
