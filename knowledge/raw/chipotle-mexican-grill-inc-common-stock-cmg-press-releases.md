@@ -1,8 +1,17 @@
 ---
 url: "https://www.nasdaq.com/market-activity/stocks/cmg/press-releases"
 title: "Chipotle Mexican Grill, Inc. Common Stock (CMG) Press Releases"
-description: "CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL. 20 hours ago ; CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON. 1 day ago ; CHIPOTLE ..."
-scraped_at: "2026-09-10T16:45:41Z"
+description: "### Press Releases
+$36.76 X 207
+
+Ask:$36.84 X 100
+
+Volume:451,518.072593
+
+28.04 - 42.82
+
+36.03 - 36.92"
+scraped_at: "2026-09-14T18:15:58Z"
 ---
 
 [Skip to main content](https://www.nasdaq.com/market-activity/stocks/cmg/press-releases#main-content)
@@ -45,16 +54,16 @@ Press Releases
 - Insider Activity
 - SEC Filings
 
-$36.04
-$36.04
+$36.78
+$36.78
 
-+0.01
-+0.01
++0.58
++0.58
 
-+0.03%
-+0.03%
++1.60%
++1.60%
 
-Sep 10, 2026 12:45 PM ET
+Sep 14, 2026 9:36 AM ET
 
 
 +
@@ -67,11 +76,11 @@ Market: Open
 Chipotle Mexican Grill, Inc. Common Stock (CMG)
 
 Bid:
-$36.03 X 350
+$36.76 X 207
 
-Ask:$36.05 X 585
+Ask:$36.84 X 100
 
-Volume:2,853,017.926813
+Volume:451,518.072593
 
 52 Week Range:
 
@@ -81,7 +90,7 @@ Volume:2,853,017.926813
 High/Low:
 
 
-35.69 - 36.30
+36.03 - 36.92
 
 
 CMG Alerts×
@@ -254,6 +263,8 @@ _close_Close Info Toast
 
 
 Watch Live Bell Ceremony
+
+Harmonic Inc. Rings the Opening Bell
 
 By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 [Cookie Policy](https://www.nasdaq.com/cookie-statement)
