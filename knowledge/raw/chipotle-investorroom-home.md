@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "# Home
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-09-14T18:15:58Z"
+scraped_at: "2026-09-15T17:23:59Z"
 ---
 
 # Home
@@ -13,6 +13,12 @@ scraped_at: "2026-09-14T18:15:58Z"
 RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
+
+Sep 14, 2026
+
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS](https://ir.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
 Sep 1, 2026
 
@@ -26,23 +32,13 @@ Jul 29, 2026
 
 "RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
 
-[![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
-
-Jul 13, 2026
-
-- [Photos (2)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
-
-[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
-
-Chipotle and Alsea plan additional openings in Nuevo León this year and expansion into Mexico City in 2027 NEWPORT BEACH, Calif., July 13, 2026 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG)...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$36.20
+$37.03
 
-$0.07
+$0.83
 
 Currency in USD.
 
@@ -112,3 +108,5 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+Twitter Widget Iframe

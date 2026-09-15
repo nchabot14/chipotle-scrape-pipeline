@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results ...Years GoNews ReleasesAlerts10050"
-scraped_at: "2026-09-14T18:15:58Z"
+description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases."
+scraped_at: "2026-09-15T17:23:59Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)

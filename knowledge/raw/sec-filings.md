@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/sec-filings"
 title: "SEC Filings"
 description: "Chipotle · Home · Corporate Governance · Board of Directors · Board Committees · Management · News Releases · Presentations · SEC Filings · Stock Information."
-scraped_at: "2026-09-13T16:44:58Z"
+scraped_at: "2026-09-15T17:23:59Z"
 ---
 
 # SEC Filings

@@ -1,8 +1,8 @@
 ---
 url: "https://newsroomeu.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 / ..."
-scraped_at: "2026-06-07T14:46:37Z"
+description: "News releases are archived for three years and are presented in chronological order. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29,"
+scraped_at: "2026-09-15T17:23:59Z"
 ---
 
 [Skip to main content](https://newsroomeu.chipotle.com/press-releases#content)
@@ -11,29 +11,29 @@ scraped_at: "2026-06-07T14:46:37Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-April 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-April 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -54,6 +54,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroomeu.chipotle.com/press-releases#)
+
+- [![](https://newsroomeu.chipotle.com/file.php/177945/Pollo+Asado+General+PR+UK+Version.jpg?thumbnail=144)Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME)
+
+
+
+Aug 31, 2026
+
+
+
+[INTRODUCING POLLO ASADO: CHIPOTLE BRINGS ITS FRESH TAKE ON CHICKEN ASADO TO THE UK FOR THE FIRST TIME Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME)
+
+
+
+
+
+Unlike proteins that arrive at restaurants already cooked, Chipotle's Pollo Asado is made with chicken grilled fresh in its restaurants throughout the day and finished with garlic, guajillo...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME#assets_20295_122838-117)
+
+- [![](https://newsroomeu.chipotle.com/image/UK_PR_0608_800px.jpg)Opens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS)
+
+
+
+Jun 8, 2026
+
+
+
+[CHIPOTLE UK KICKS OFF SUMMER’S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING FOOTBALL KITSOpens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS)
+
+
+
+
+
+All fans who wear a football kit to Chipotle restaurants in the UK on 11 June after 3 p.m. can receive a buy-one-get-one main1 The Matchday BOGO celebrates the shared experiences and traditions...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS#assets_20295_122837-117)
 
 - Apr 29, 2026
 
@@ -100,31 +144,6 @@ After launching in the UK in 2025, Chipotle Honey Chicken became the brand’s b
 
 
   - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-04-21-CHIPOTLE-BRINGS-BACK-CHIPOTLE-HONEY-CHICKEN-TO-THE-UK-FOLLOWING-RECORD-BREAKING-DEBUT#assets_20295_122833-117)
-
-- Mar 17, 2026
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026Opens in new window](https://newsroomeu.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
-
-- Feb 3, 2026
-
-
-
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTSOpens in new window](https://newsroomeu.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-
-
-
-
-LAUNCHES "RECIPE FOR GROWTH" STRATEGY TO GROW TRANSACTIONS AND DRIVE ACCURACY, EFFICIENCY AND SPEED FULL YEAR TOTAL REVENUE INCREASED 5.4% TO $11.9 BILLION NEWPORT BEACH, Calif., Feb. 3, 2026...
-
 
 Show
 
