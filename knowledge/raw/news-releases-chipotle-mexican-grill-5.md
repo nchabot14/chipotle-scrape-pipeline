@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026 Jul 29, 2026 CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 ..."
-scraped_at: "2026-09-16T17:22:59Z"
+scraped_at: "2026-09-17T17:22:28Z"
 ---
 
 September 2026
