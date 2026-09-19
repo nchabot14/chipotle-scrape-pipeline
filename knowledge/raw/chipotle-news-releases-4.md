@@ -2,38 +2,46 @@
 url: "https://newsroomeu.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29,"
-scraped_at: "2026-08-08T13:38:10Z"
+scraped_at: "2026-09-19T16:09:20Z"
 ---
 
-[Skip to main content](https://newsroomeu.chipotle.com/press-releases#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroomeu.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-June 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-June 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -54,6 +62,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroomeu.chipotle.com/press-releases#)
+
+- [![](https://newsroomeu.chipotle.com/file.php/177945/Pollo+Asado+General+PR+UK+Version.jpg?thumbnail=144)Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME)
+
+
+
+Aug 31, 2026
+
+
+
+[INTRODUCING POLLO ASADO: CHIPOTLE BRINGS ITS FRESH TAKE ON CHICKEN ASADO TO THE UK FOR THE FIRST TIME Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME)
+
+
+
+
+
+Unlike proteins that arrive at restaurants already cooked, Chipotle's Pollo Asado is made with chicken grilled fresh in its restaurants throughout the day and finished with garlic, guajillo...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-08-31-INTRODUCING-POLLO-ASADO-CHIPOTLE-BRINGS-ITS-FRESH-TAKE-ON-CHICKEN-ASADO-TO-THE-UK-FOR-THE-FIRST-TIME#assets_20295_122838-117)
 
 - [![](https://newsroomeu.chipotle.com/image/UK_PR_0608_800px.jpg)Opens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS)
 
@@ -122,19 +152,6 @@ After launching in the UK in 2025, Chipotle Honey Chicken became the brand’s b
 
 
   - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-04-21-CHIPOTLE-BRINGS-BACK-CHIPOTLE-HONEY-CHICKEN-TO-THE-UK-FOLLOWING-RECORD-BREAKING-DEBUT#assets_20295_122833-117)
-
-- Mar 17, 2026
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026Opens in new window](https://newsroomeu.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
-
 
 Show
 
