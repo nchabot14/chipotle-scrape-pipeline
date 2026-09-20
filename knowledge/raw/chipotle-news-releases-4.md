@@ -1,8 +1,8 @@
 ---
 url: "https://newsroomeu.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "News releases are archived for three years and are presented in chronological order. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29,"
-scraped_at: "2026-09-19T16:09:20Z"
+description: "News releases are archived for three years and are presented in chronological order. REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, ..."
+scraped_at: "2026-09-20T16:38:02Z"
 ---
 
 ### Your Privacy Preferences
