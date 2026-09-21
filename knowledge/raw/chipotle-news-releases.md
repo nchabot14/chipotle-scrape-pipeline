@@ -2,18 +2,10 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. September 2026 ..."
-scraped_at: "2026-09-20T16:38:02Z"
+scraped_at: "2026-09-21T18:23:06Z"
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -64,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://newsroom.chipotle.com/file.php/181151/1920x1080_Quesadilla+Day-2.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+Sep 21, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLASOpens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+
+
+From September 24 through September 25, guests in the U.S. and Canada can score a free quesadilla with a digital purchase of $20 or more on the Chipotle app, Chipotle.com and Chipotle.ca with code...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
@@ -133,27 +147,6 @@ The opening marks a significant milestone in Chipotle's global expansion, establ
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results and provide a business update for the...
 
-- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
-
-
-
-Aug 31, 2026
-
-
-
-[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPSOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
-
-
-
-
-
-For the first time in brand history, Chipotle is launching two limited-time menu items simultaneously: Pollo Asado and Chili Lime Chips Pollo Asado returns August 31 with an all-new recipe,...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122883-117)
 
 Show
 
