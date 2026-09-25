@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "# News Releases
 [CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)"
-scraped_at: "2026-09-24T17:38:49Z"
+scraped_at: "2026-09-25T17:37:48Z"
 ---
 
 # News Releases
