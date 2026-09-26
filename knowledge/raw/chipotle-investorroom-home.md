@@ -3,7 +3,7 @@ url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "# Home
 \"RECIPE FOR GROWTH\" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle..."
-scraped_at: "2026-09-25T17:37:48Z"
+scraped_at: "2026-09-26T16:49:13Z"
 ---
 
 # Home
@@ -36,9 +36,9 @@ Jul 29, 2026
 
 NYSECMG
 
-$31.57
+$31.33
 
--$0.44
+-$0.68
 
 Currency in USD.
 
