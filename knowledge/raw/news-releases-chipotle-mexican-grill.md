@@ -1,14 +1,9 @@
 ---
-url: "https://ir.chipotle.com/news-releases"
+url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
-description: "# News Releases
-[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)"
-scraped_at: "2026-09-28T19:54:35Z"
+description: "Sep 14, 2026. CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS ; Sep 1, 2026. CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, ..."
+scraped_at: "2026-09-29T18:23:02Z"
 ---
-
-# News Releases
-
-These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
 September 2026
 
@@ -40,7 +35,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/news-releases#)
+[Advanced Search](https://ir.chipotle.com/Financial-Releases#)
 
 Search
 
@@ -58,35 +53,7 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/news-releases#)
-
-- [![](https://mmx.prnewswire.com/media/MS1996285/2609_CMG_Boorito26_PR-ASSETS_CrystalBall_v1_1920x1080.jpg?id=OA2970628&p=thumbnail)](https://ir.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
-
-
-
-Sep 28, 2026
-
-
-
-[CHIPOTLE SUMMONS THE RETURN OF MARGARITAS IN THE COUNTDOWN TO BOORITO](https://ir.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
-
-
-
-  - [PhotosPhotos2](https://ir.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO#assets_20295_122858-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-Sep 15, 2026
-
-
-
-[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122857-3)
+[Basic Search](https://ir.chipotle.com/Financial-Releases#)
 
 - Sep 14, 2026
 
@@ -94,25 +61,37 @@ Sep 15, 2026
 
 [CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS](https://ir.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
 
-- [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
-
-
-
-Sep 2, 2026
-
-
-
-[CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
-
-
-
-  - [PhotosPhotos2](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL#assets_20295_122855-3)
-
 - Sep 1, 2026
 
 
 
 [CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026](https://ir.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
+
+- Jul 29, 2026
+
+
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+- [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+Jul 13, 2026
+
+
+
+[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+  - [PhotosPhotos2](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
+
+- Jun 2, 2026
+
+
+
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://ir.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
 
 
 Show
@@ -121,11 +100,11 @@ Show
 
 per page
 
-- [print](https://ir.chipotle.com/news-releases#print "print")
+- [print](https://ir.chipotle.com/Financial-Releases#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/news-releases#email "email")
+- [email](https://ir.chipotle.com/Financial-Releases#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -159,4 +138,4 @@ OKAYPRIVACY POLICY
 
 Twitter Widget Iframe
 
-[5](https://ir.chipotle.com/news-releases?l=5) [10](https://ir.chipotle.com/news-releases?l=10) [25](https://ir.chipotle.com/news-releases?l=25) [50](https://ir.chipotle.com/news-releases?l=50) [100](https://ir.chipotle.com/news-releases?l=100)
+[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
