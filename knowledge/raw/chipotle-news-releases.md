@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Years GoAlerts100News ReleasesChipotle announces third ...10"
-scraped_at: "2026-09-30T18:12:20Z"
+scraped_at: "2026-10-01T18:37:34Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://newsroom.chipotle.com/file.php/181193/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+
+
+
+Sep 29, 2026
+
+
+
+[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGYOpens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+
+
+
+
+
+The milestone restaurant will open in Florida as Chipotle expects to grow its restaurant footprint in the state by approximately 17% in 2026 and create approximately 1,500 restaurant jobs...
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122890-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1996285/2609_CMG_Boorito26_PR-ASSETS_CrystalBall_v1_1920x1080.jpg?id=OA2970628&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
 
@@ -135,27 +157,6 @@ Enhanced Apprentice program supports Chipotle's long-term goal of developing res
 
 Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
-- [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
-
-
-
-Sep 2, 2026
-
-
-
-[CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOULOpens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
-
-
-
-
-
-The opening marks a significant milestone in Chipotle's global expansion, establishing South Korea as a reference market for future growth across Asia The joint venture established by Chipotle and...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL#assets_20295_122885-117)
 
 Show
 
