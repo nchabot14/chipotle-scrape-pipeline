@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Sep 14, 2026. CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS ; Sep 1, 2026. CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, ..."
-scraped_at: "2026-10-02T18:07:16Z"
+scraped_at: "2026-10-03T16:52:50Z"
 ---
 
 September 2026
