@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Years GoAlertsNews ReleasesChipotle announces third ...10"
-scraped_at: "2026-10-05T21:03:00Z"
+description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Chipotle logoAlertsNews ReleasesChipotle announces third ..."
+scraped_at: "2026-10-06T18:41:53Z"
 ---
 
 ### Your Privacy Preferences
