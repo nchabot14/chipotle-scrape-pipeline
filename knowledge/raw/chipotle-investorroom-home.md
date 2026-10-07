@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 ..."
-scraped_at: "2026-10-06T18:41:53Z"
+scraped_at: "2026-10-07T19:08:19Z"
 ---
 
 ### Your Privacy Preferences
