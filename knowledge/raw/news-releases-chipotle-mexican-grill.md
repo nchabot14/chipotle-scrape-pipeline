@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Sep 29, 2026. CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGY · Sep 14, 2026. CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS."
-scraped_at: "2026-10-09T18:35:05Z"
+scraped_at: "2026-10-10T17:32:19Z"
 ---
 
 October 2026
