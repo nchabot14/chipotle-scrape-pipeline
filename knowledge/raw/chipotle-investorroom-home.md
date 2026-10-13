@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 ..."
-scraped_at: "2026-10-12T21:28:27Z"
+scraped_at: "2026-10-13T19:39:39Z"
 ---
 
 # Home
@@ -39,9 +39,9 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Oct
 
 NYSECMG
 
-$31.59
+$30.40
 
--$1.09
+-$1.19
 
 Currency in USD.
 
