@@ -2,16 +2,8 @@
 url: "https://ir.chipotle.com/sec-filings"
 title: "SEC Filings - Chipotle Mexican Grill"
 description: "News Releases · Presentations · SEC Filings · Stock Information · Investment Calculator · Historical Stock Price · Analyst Coverage · Insider Transactions."
-scraped_at: "2026-10-14T17:40:48Z"
+scraped_at: "2026-10-15T17:29:51Z"
 ---
-
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
 
 # SEC Filings
 
@@ -19,13 +11,9 @@ Select the filing type and date range you wish to view from the drop-down menus 
 
 NYSECMG
 
-Year
+Year[Trailing 12-Months](https://ir.chipotle.com/sec-filings?year=) [Calendar Year 2026](https://ir.chipotle.com/sec-filings?year=2026) [Calendar Year 2025](https://ir.chipotle.com/sec-filings?year=2025) [Calendar Year 2024](https://ir.chipotle.com/sec-filings?year=2024) [Calendar Year 2023](https://ir.chipotle.com/sec-filings?year=2023) [Calendar Year 2022](https://ir.chipotle.com/sec-filings?year=2022) [Calendar Year 2021](https://ir.chipotle.com/sec-filings?year=2021) [Calendar Year 2020](https://ir.chipotle.com/sec-filings?year=2020) [Calendar Year 2019](https://ir.chipotle.com/sec-filings?year=2019) [Calendar Year 2018](https://ir.chipotle.com/sec-filings?year=2018) [Calendar Year 2017](https://ir.chipotle.com/sec-filings?year=2017) [Calendar Year 2016](https://ir.chipotle.com/sec-filings?year=2016) [Calendar Year 2015](https://ir.chipotle.com/sec-filings?year=2015) [Calendar Year 2014](https://ir.chipotle.com/sec-filings?year=2014) [Calendar Year 2013](https://ir.chipotle.com/sec-filings?year=2013) [Calendar Year 2012](https://ir.chipotle.com/sec-filings?year=2012) [Calendar Year 2011](https://ir.chipotle.com/sec-filings?year=2011) [Calendar Year 2010](https://ir.chipotle.com/sec-filings?year=2010) [Calendar Year 2009](https://ir.chipotle.com/sec-filings?year=2009) [Calendar Year 2008](https://ir.chipotle.com/sec-filings?year=2008) [Calendar Year 2007](https://ir.chipotle.com/sec-filings?year=2007) [Calendar Year 2006](https://ir.chipotle.com/sec-filings?year=2006) [Calendar Year 2005](https://ir.chipotle.com/sec-filings?year=2005) [Calendar Year 2004](https://ir.chipotle.com/sec-filings?year=2004) [Calendar Year 2003](https://ir.chipotle.com/sec-filings?year=2003) [Calendar Year 2002](https://ir.chipotle.com/sec-filings?year=2002)
 
-Trailing 12-MonthsOpen
-
-View
-
-All FilingsOpen
+View[All Filings](https://ir.chipotle.com/sec-filings?cat=) [Annual Filings](https://ir.chipotle.com/sec-filings?cat=1) [Quarterly Filings](https://ir.chipotle.com/sec-filings?cat=2) [Current Filings](https://ir.chipotle.com/sec-filings?cat=3) [Registration Statements](https://ir.chipotle.com/sec-filings?cat=4) [Section 16](https://ir.chipotle.com/sec-filings?cat=5) [Mergers & Acquisitions](https://ir.chipotle.com/sec-filings?cat=6) [Proxy & Information Statements](https://ir.chipotle.com/sec-filings?cat=7) [Other](https://ir.chipotle.com/sec-filings?cat=8)
 
 | Form | Description | Date | Format |
 | --- | --- | --- | --- |
@@ -88,6 +76,4 @@ Cookies are used to support and manage your interactions with our website and pr
 
 OKAYPRIVACY POLICY
 
-Twitter Widget Iframe
-
-[Trailing 12-Months](https://ir.chipotle.com/sec-filings?year=) [Calendar Year 2026](https://ir.chipotle.com/sec-filings?year=2026) [Calendar Year 2025](https://ir.chipotle.com/sec-filings?year=2025) [Calendar Year 2024](https://ir.chipotle.com/sec-filings?year=2024) [Calendar Year 2023](https://ir.chipotle.com/sec-filings?year=2023) [Calendar Year 2022](https://ir.chipotle.com/sec-filings?year=2022) [Calendar Year 2021](https://ir.chipotle.com/sec-filings?year=2021) [Calendar Year 2020](https://ir.chipotle.com/sec-filings?year=2020) [Calendar Year 2019](https://ir.chipotle.com/sec-filings?year=2019) [Calendar Year 2018](https://ir.chipotle.com/sec-filings?year=2018) [Calendar Year 2017](https://ir.chipotle.com/sec-filings?year=2017) [Calendar Year 2016](https://ir.chipotle.com/sec-filings?year=2016) [Calendar Year 2015](https://ir.chipotle.com/sec-filings?year=2015) [Calendar Year 2014](https://ir.chipotle.com/sec-filings?year=2014) [Calendar Year 2013](https://ir.chipotle.com/sec-filings?year=2013) [Calendar Year 2012](https://ir.chipotle.com/sec-filings?year=2012) [Calendar Year 2011](https://ir.chipotle.com/sec-filings?year=2011) [Calendar Year 2010](https://ir.chipotle.com/sec-filings?year=2010) [Calendar Year 2009](https://ir.chipotle.com/sec-filings?year=2009) [Calendar Year 2008](https://ir.chipotle.com/sec-filings?year=2008) [Calendar Year 2007](https://ir.chipotle.com/sec-filings?year=2007) [Calendar Year 2006](https://ir.chipotle.com/sec-filings?year=2006) [Calendar Year 2005](https://ir.chipotle.com/sec-filings?year=2005) [Calendar Year 2004](https://ir.chipotle.com/sec-filings?year=2004) [Calendar Year 2003](https://ir.chipotle.com/sec-filings?year=2003) [Calendar Year 2002](https://ir.chipotle.com/sec-filings?year=2002)[All Filings](https://ir.chipotle.com/sec-filings?cat=) [Annual Filings](https://ir.chipotle.com/sec-filings?cat=1) [Quarterly Filings](https://ir.chipotle.com/sec-filings?cat=2) [Current Filings](https://ir.chipotle.com/sec-filings?cat=3) [Registration Statements](https://ir.chipotle.com/sec-filings?cat=4) [Section 16](https://ir.chipotle.com/sec-filings?cat=5) [Mergers & Acquisitions](https://ir.chipotle.com/sec-filings?cat=6) [Proxy & Information Statements](https://ir.chipotle.com/sec-filings?cat=7) [Other](https://ir.chipotle.com/sec-filings?cat=8)
+(opens in a new window)
