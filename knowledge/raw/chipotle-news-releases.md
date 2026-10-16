@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "In the NewsOpens in new window · Media ContactsOpens in new window · AlertsOpens in new window · Investor RelationsOpens in new window. Search Toggle. By typing ...Chipotle logoAlertsNews Releases10"
-scraped_at: "2026-10-15T17:29:51Z"
+scraped_at: "2026-10-16T17:05:04Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -11,29 +11,31 @@ scraped_at: "2026-10-15T17:29:51Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-October 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-October 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -181,5 +183,7 @@ per page
 - [Opens in new window](https://twitter.com/share?url=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
 - [email](https://newsroom.chipotle.com/press-releases#email "email")
 - [Opens in new window](https://newsroom.chipotle.com/index.php?s=20324&rsspage=20295 "rss")
+
+(opens in a new window)
 
 [5Opens in new window](https://newsroom.chipotle.com/press-releases?l=5) [10Opens in new window](https://newsroom.chipotle.com/press-releases?l=10) [25Opens in new window](https://newsroom.chipotle.com/press-releases?l=25) [50Opens in new window](https://newsroom.chipotle.com/press-releases?l=50) [100Opens in new window](https://newsroom.chipotle.com/press-releases?l=100)
