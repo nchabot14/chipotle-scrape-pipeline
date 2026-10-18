@@ -2,34 +2,32 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Sep 29, 2026. CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGY · Sep 14, 2026. CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS."
-scraped_at: "2026-10-17T16:02:12Z"
+scraped_at: "2026-10-18T16:14:17Z"
 ---
 
-Month Year
+October 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 Cancel Go
 
-Month Year
+October 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 Cancel Go
 
@@ -69,7 +67,7 @@ Sep 29, 2026
 
 
 
-  - [Photos4](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122859-3)
+  - [PhotosPhotos4](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122859-3)
 
 - Sep 14, 2026
 
@@ -101,9 +99,13 @@ Jul 13, 2026
 
 
 
-  - [Photos2](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
+  - [PhotosPhotos2](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
 
-Show [5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100) per page
+Show
+
+5Open
+
+per page
 
 - [print](https://ir.chipotle.com/Financial-Releases#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
@@ -142,3 +144,7 @@ Cookies are used to support and manage your interactions with our website and pr
 OKAYPRIVACY POLICY
 
 (opens in a new window)
+
+Twitter Widget Iframe
+
+[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
