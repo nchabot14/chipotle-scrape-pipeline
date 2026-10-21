@@ -1,9 +1,8 @@
 ---
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
-description: "# News Releases
-[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)"
-scraped_at: "2026-10-19T18:54:07Z"
+description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
+scraped_at: "2026-10-21T17:46:59Z"
 ---
 
 # News Releases
@@ -60,6 +59,20 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+
+
+
+Oct 20, 2026
+
+
+
+[BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122862-3)
+
 - [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
 
 
@@ -115,20 +128,6 @@ Sep 28, 2026
 
 
   - [PhotosPhotos2](https://ir.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO#assets_20295_122858-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-Sep 15, 2026
-
-
-
-[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122857-3)
 
 Show
 
