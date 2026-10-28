@@ -2,18 +2,10 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. Oct 26, 2026 ..."
-scraped_at: "2026-10-27T18:28:30Z"
+scraped_at: "2026-10-28T18:34:12Z"
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -64,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+
+
+
+Oct 26, 2026
+
+
+
+[CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASONOpens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+
+
+
+
+
+With a history of selling out earlier than anticipated, Smoked Brisket returns to restaurants for a limited time beginning November 5 Smoked Brisket is mesquite-smoked for hours before being...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122895-117)
 
 - [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
 
@@ -154,28 +168,6 @@ The milestone restaurant will open in Florida as Chipotle expects to grow its re
 
 
   - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122890-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1996285/2609_CMG_Boorito26_PR-ASSETS_CrystalBall_v1_1920x1080.jpg?id=OA2970628&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
-
-
-
-Sep 28, 2026
-
-
-
-[CHIPOTLE SUMMONS THE RETURN OF MARGARITAS IN THE COUNTDOWN TO BOORITOOpens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
-
-
-
-
-
-After years of fans reminiscing about the Chipotle margaritas on social media, the brand is resurrecting its original recipe with a five-city "Summon the Spirits Tour" leading up to Boorito The...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO#assets_20295_122889-117)
 
 Show
 
