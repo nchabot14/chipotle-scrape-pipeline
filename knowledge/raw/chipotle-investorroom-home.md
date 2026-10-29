@@ -2,8 +2,16 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 ..."
-scraped_at: "2026-10-28T18:34:12Z"
+scraped_at: "2026-10-29T18:43:47Z"
 ---
+
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
 
 # Home
 
@@ -12,6 +20,12 @@ scraped_at: "2026-10-28T18:34:12Z"
 RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
+
+Oct 28, 2026
+
+[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
+
+COMPARABLE RESTAURANT SALES INCREASE 2.1% AS CHIPOTLE DELIVERS A THIRD CONSECUTIVE QUARTER OF POSITIVE TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 28, 2026 /PRNewswire/ -- Chipotle Mexican...
 
 [![](https://ir.chipotle.com/file.php/902/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
 
@@ -29,19 +43,13 @@ Sep 14, 2026
 
 Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
-Sep 1, 2026
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026](https://ir.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results and provide a business update for the...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$27.98
+$28.73
 
--$0.43
+$0.75
 
 Currency in USD.
 
@@ -65,11 +73,11 @@ If you are a Chipotle shareholder and would like to receive your proxy materials
 
 Events
 
-**Chipotle Mexican Grill Second Quarter 2026 Results**
+**Chipotle Mexican Grill Third Quarter 2026 Results**
 
-**Wednesday, July 29, 2026 at 4:30 p.m. (EDT)**
+**Wednesday, October 28, 2026 at 4:30 p.m. (EDT)**
 
-[Listen to the Webcast](https://app.webinar.net/1xylDGAwMKP)
+[Listen to the Webcast](https://app.webinar.net/eoKjwMGDP7l)
 
 [CONTACT US](https://ir.chipotle.com/contact-us)
 
