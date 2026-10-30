@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. Oct 26, 2026 ..."
-scraped_at: "2026-10-28T18:34:12Z"
+description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. October 2026 ..."
+scraped_at: "2026-10-30T18:19:48Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -11,29 +11,31 @@ scraped_at: "2026-10-28T18:34:12Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-October 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-October 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -56,6 +58,18 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- Oct 28, 2026
+
+
+
+[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTSOpens in new window](https://newsroom.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
+
+
+
+
+
+COMPARABLE RESTAURANT SALES INCREASE 2.1% AS CHIPOTLE DELIVERS A THIRD CONSECUTIVE QUARTER OF POSITIVE TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 28, 2026 /PRNewswire/ -- Chipotle Mexican...
 
 - [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
 
@@ -146,28 +160,6 @@ Oct 5, 2026
 
   - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-117)
   - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-115)
-
-- [![](https://newsroom.chipotle.com/file.php/181193/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
-
-
-
-Sep 29, 2026
-
-
-
-[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGYOpens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
-
-
-
-
-
-The milestone restaurant will open in Florida as Chipotle expects to grow its restaurant footprint in the state by approximately 17% in 2026 and create approximately 1,500 restaurant jobs...
-
-
-
-
-
-  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122890-117)
 
 Show
 

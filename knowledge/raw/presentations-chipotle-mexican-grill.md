@@ -1,11 +1,54 @@
 ---
 url: "https://ir.chipotle.com/presentations"
 title: "Presentations - Chipotle Mexican Grill"
-description: "News Releases, Presentations, SEC Filings, Stock Information, Investment Calculator, Historical Stock Price, Analyst Coverage, Insider Transactions, Events"
-scraped_at: "2026-06-01T18:33:37Z"
+description: "# Presentations
+|  |  |
+|-|-|
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/CMG_Supplemental_Q3_2026_Investor_Information.pdf) | (2.1 MB) |
+
+|  |  |
+|-|-|
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/CMG_Supplemental_Q2_2026_Investor_Information_Final_7.29.26.pdf) | (3.2 MB) |
+
+|  |  |
+|-|-|
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/CMG_Supplemental_Q4_and_FY25_Investor_Information.pdf) | (3 MB) |
+
+|  |  |
+|-|-|
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Chipotle+Q12023+NON-GAAP+RECONCILIATION.pdf) | (760 KB) |"
+scraped_at: "2026-10-30T18:19:48Z"
 ---
 
 # Presentations
+
+[Q32026 NON-GAAP RECONCILIATION](https://ir.chipotle.com/download/Non-GAAP_tables_for_IR_Site_Q326_vFINAL.pdf)
+
+|     |     |
+| --- | --- |
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Non-GAAP_tables_for_IR_Site_Q326_vFINAL.pdf) | (94 KB) |
+|  |
+
+[Supplemental Q32026 Investor Information](https://ir.chipotle.com/download/CMG_Supplemental_Q3_2026_Investor_Information.pdf)
+
+|     |     |
+| --- | --- |
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/CMG_Supplemental_Q3_2026_Investor_Information.pdf) | (2.1 MB) |
+|  |
+
+[Q22026 NON-GAAP RECONCILIATION](https://ir.chipotle.com/download/Non-GAAP_tables_for_IR_Site_Q226_FINAL.pdf)
+
+|     |     |
+| --- | --- |
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Non-GAAP_tables_for_IR_Site_Q226_FINAL.pdf) | (189 KB) |
+|  |
+
+[Supplemental Q22026 Investor Information](https://ir.chipotle.com/download/CMG_Supplemental_Q2_2026_Investor_Information_Final_7.29.26.pdf)
+
+|     |     |
+| --- | --- |
+| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/CMG_Supplemental_Q2_2026_Investor_Information_Final_7.29.26.pdf) | (3.2 MB) |
+|  |
 
 [Q12026 NON-GAAP RECONCILIATION](https://ir.chipotle.com/download/Non-GAAP_tables_for_IR_site_v_FINAL.pdf)
 
@@ -154,34 +197,6 @@ scraped_at: "2026-06-01T18:33:37Z"
 | [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Non-gaap+reconciliation+for+IR+site+v+FINAL+10.21.21.pdf) | (185 KB) |
 |  |
 
-[Q22021 NON-GAAP RECONCILIATION](https://ir.chipotle.com/download/Earnings+Release+Non-gaap+reconciliationQ22021.pdf)
-
-|     |     |
-| --- | --- |
-| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Earnings+Release+Non-gaap+reconciliationQ22021.pdf) | (221 KB) |
-|  |
-
-[Q12021 Non-GAAP Reconciliation](https://ir.chipotle.com/download/Earnings+Release+Non-gaap+reconciliation+Q12021.pdf)
-
-|     |     |
-| --- | --- |
-| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Earnings+Release+Non-gaap+reconciliation+Q12021.pdf) | (210 KB) |
-|  |
-
-[Q42020 Non-GAAP Reconciliation](https://ir.chipotle.com/download/Q420-Earnings+Release+Non-gaap+reconciliation+for+IR+site.pdf)
-
-|     |     |
-| --- | --- |
-| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Q420-Earnings+Release+Non-gaap+reconciliation+for+IR+site.pdf) | (187 KB) |
-|  |
-
-[Delivery Service Revenue](https://ir.chipotle.com/download/Delivery+Service+Revenue.pdf)
-
-|     |     |
-| --- | --- |
-| [![](https://ir.chipotle.com/images/font-awesome_4-7-0_file-pdf-o_256_0_555555_none_orange.png)](https://ir.chipotle.com/download/Delivery+Service+Revenue.pdf) | (132 KB) |
-|  |
-
 Show
 
 25Open
@@ -219,6 +234,8 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe
 

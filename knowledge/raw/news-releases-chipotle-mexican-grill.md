@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
 description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-10-28T18:34:12Z"
+scraped_at: "2026-10-30T18:19:48Z"
 ---
 
 # News Releases
@@ -59,6 +59,12 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- Oct 28, 2026
+
+
+
+[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
+
 - [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
 
 
@@ -114,20 +120,6 @@ Oct 5, 2026
 
 
   - [PhotosPhotos4](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122860-3)
-
-- [![](https://ir.chipotle.com/file.php/902/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
-
-
-
-Sep 29, 2026
-
-
-
-[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGY](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
-
-
-
-  - [PhotosPhotos4](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122859-3)
 
 Show
 
