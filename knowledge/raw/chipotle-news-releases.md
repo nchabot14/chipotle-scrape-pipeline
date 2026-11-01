@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Oct 28, 2026 CHIPOTLE ANNOUNCES THIRD QUARTER"
-scraped_at: "2026-10-31T17:26:18Z"
+scraped_at: "2026-11-01T18:11:23Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
