@@ -2,7 +2,7 @@
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
 description: "News releases are archived for three years and are presented in chronological order. Oct 28, 2026 CHIPOTLE ANNOUNCES THIRD QUARTER"
-scraped_at: "2026-11-01T18:11:23Z"
+scraped_at: "2026-11-02T22:00:19Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -11,31 +11,29 @@ scraped_at: "2026-11-01T18:11:23Z"
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-Month Year
+November 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
-Month Year
+November 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
