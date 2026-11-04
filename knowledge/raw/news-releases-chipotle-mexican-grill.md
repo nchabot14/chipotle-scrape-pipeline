@@ -1,17 +1,13 @@
 ---
-url: "https://ir.chipotle.com/Financial-Releases"
+url: "https://ir.chipotle.com/news-releases"
 title: "News Releases - Chipotle Mexican Grill"
-description: "News Releases Presentations. CHIPOTLE ANNOUNCES THIRD QUARTER 2026. CHIPOTLE REACHES 1,500. RESULTS ON OCTOBER 28, CHIPOTLE RAISES FULL YEAR COMPARABLE SALES"
-scraped_at: "2026-11-03T19:53:28Z"
+description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
+scraped_at: "2026-11-04T20:08:27Z"
 ---
 
-### Your Privacy Preferences
+# News Releases
 
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
 October 2026
 
@@ -43,7 +39,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/Financial-Releases#)
+[Advanced Search](https://ir.chipotle.com/news-releases#)
 
 Search
 
@@ -61,7 +57,7 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/Financial-Releases#)
+[Basic Search](https://ir.chipotle.com/news-releases#)
 
 - Oct 28, 2026
 
@@ -69,38 +65,61 @@ PhotosAudioDocumentsEventsStandard
 
 [CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
 
-- [![](https://ir.chipotle.com/file.php/902/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+- [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
 
 
 
-Sep 29, 2026
+Oct 26, 2026
 
 
 
-[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGY](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+[CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASON](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
 
 
 
-  - [PhotosPhotos4](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122859-3)
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122863-3)
 
-- Sep 14, 2026
-
-
-
-[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS](https://ir.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
-
-- Sep 1, 2026
+- [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
 
 
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026](https://ir.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
-
-- Jul 29, 2026
+Oct 20, 2026
 
 
 
-[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+[BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
 
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122862-3)
+
+- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+Oct 13, 2026
+
+
+
+[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAG](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+  - [PhotosPhotos5](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122861-3)
+
+- [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
+
+
+
+Oct 5, 2026
+
+
+
+[CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLES](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
+
+
+
+  - [PhotosPhotos4](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122860-3)
 
 Show
 
@@ -108,11 +127,11 @@ Show
 
 per page
 
-- [print](https://ir.chipotle.com/Financial-Releases#print "print")
+- [print](https://ir.chipotle.com/news-releases#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/Financial-Releases#email "email")
+- [email](https://ir.chipotle.com/news-releases#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -148,4 +167,4 @@ OKAYPRIVACY POLICY
 
 Twitter Widget Iframe
 
-[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
+[5](https://ir.chipotle.com/news-releases?l=5) [10](https://ir.chipotle.com/news-releases?l=10) [25](https://ir.chipotle.com/news-releases?l=25) [50](https://ir.chipotle.com/news-releases?l=50) [100](https://ir.chipotle.com/news-releases?l=100)
