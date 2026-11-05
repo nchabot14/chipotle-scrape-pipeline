@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. November 2026 ..."
-scraped_at: "2026-11-04T20:08:27Z"
+description: "CHIPOTLE NEWS RELEASES ... News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News ...Years GoAlertsNews Releases50"
+scraped_at: "2026-11-05T20:23:52Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://newsroom.chipotle.com/file.php/181412/10.6Updated-All31200.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+Nov 4, 2026
+
+
+
+[CHIPOTLE EXPANDS ATHLETE CARD PROGRAM TO MORE THAN 2,300 COLLEGE ATHLETESOpens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+
+
+Florida State joins The Ohio State University, University of Florida and University of Georgia as the fourth athletic department in Chipotle's growing Athlete Card program
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES#assets_20295_122898-117)
 
 - Oct 28, 2026
 
@@ -135,29 +157,6 @@ Chipotle unveils a limited-edition, three-foot-wide, 170-liter version of its ic
 
   - [Photos5Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-117)
   - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-115)
-
-- [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-Oct 5, 2026
-
-
-
-[CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLESOpens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-
-
-"From Ground to Sound" is an original track recorded at Abbey Road Studios with the London Vegetable Orchestra using only instruments made from vegetables featured in Chipotle restaurants Three...
-
-
-
-
-
-  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-115)
 
 Show
 
