@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
 description: "Releases Presentations. Oct 28, 2026 CHIPOTLE ANNOUNCES THIRD QUARTER 2026. INCREASE 2.1% 2026 at 4:30 p.m. latest Chipotle news directly"
-scraped_at: "2026-11-08T18:09:04Z"
+scraped_at: "2026-11-09T22:47:15Z"
 ---
 
 ### Your Privacy Preferences

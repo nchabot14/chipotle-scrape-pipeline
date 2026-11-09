@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/events"
 title: "Events and Webcasts"
 description: "Browse the calendar to view Investor related events and announcements. Webcasts and presentations that have been archived are available by viewing historical ..."
-scraped_at: "2026-08-23T13:25:07Z"
+scraped_at: "2026-11-09T22:47:15Z"
 ---
 
 # Events
@@ -11,10 +11,23 @@ Browse the calendar to view Investor related events and announcements.  Webcast
 
 [Alerts![](https://ir.chipotle.com/images/webdriver/email_alerts.png)](https://ir.chipotle.com/alerts?type=4)
 
-2017201820192020202120222023202420252026JanuaryFebruaryMarchAprilMayJuneJulyAugustGO
+2017201820192020202120222023202420252026JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberGO
 
 - Upcoming Events
 - Past Events
+
+October 2026
+
+
+Wednesday, October 28, 2026
+
+1:30pm - 2:30pm PDT
+
+[Listen to the webcast](https://app.webinar.net/eoKjwMGDP7l)
+
+[Chipotle Mexican Grill Third Quarter 2026 Results](https://ir.chipotle.com/events?item=63)
+
+[More](https://ir.chipotle.com/events?item=63)
 
 July 2026
 
@@ -135,19 +148,6 @@ Tuesday, October 29, 2024
 
 [More](https://ir.chipotle.com/events?item=54)
 
-July 2024
-
-
-Wednesday, July 24, 2024
-
-4:30pm - 5:30pm EDT
-
-[Listen to the webcast](https://app.webinar.net/lgnN8Zew1GO)
-
-[Chipotle Mexican Grill Second Quarter 2024 Results](https://ir.chipotle.com/events?item=53)
-
-[More](https://ir.chipotle.com/events?item=53)
-
 No events to display
 
 Loading Events...
@@ -186,5 +186,7 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe

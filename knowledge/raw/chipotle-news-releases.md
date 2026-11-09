@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases."
-scraped_at: "2026-11-08T18:09:04Z"
+description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. 2026 CHIPOTLE ..."
+scraped_at: "2026-11-09T22:47:15Z"
 ---
 
 ### Your Privacy Preferences
@@ -64,6 +64,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+Nov 9, 2026
+
+
+
+[CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+
+
+Chipotle's Friday the 13th promotion returns Friday, November 13 with a one-hour flash BUY-ONE-GET-ONE (BOGO) entrée offer for tattooed guests from 3 to 4 p.m. local time at participating...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13#assets_20295_122899-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181412/10.6Updated-All31200.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
 
@@ -142,29 +164,6 @@ Chipotle Rewards members who visit a Chipotle restaurant in costume from 3 p.m. 
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122893-117)
-
-- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-Oct 13, 2026
-
-
-
-[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAGOpens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-
-
-Chipotle unveils a limited-edition, three-foot-wide, 170-liter version of its iconic takeout bag to spotlight Family Meals Family Meals are Chipotle's digital-exclusive, customizable offering...
-
-
-
-
-
-  - [Photos5Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-115)
 
 Show
 
