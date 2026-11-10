@@ -1,37 +1,35 @@
 ---
-url: "https://ir.chipotle.com/news-releases"
+url: "https://www.google.com/url?opi=89978449&q=CAESagHEIkXXkN43kFCIkOm6ZN3kGxv2PCe8Hrc60KFBIoRtzekC-Q0MvNXs8TOKd99kln2xBAjZiu5cc0kcc-esbCcWrUCT_LHfrAO4wrz5aJsswRpb3ogchNTsSbywuZ20o4GE-4S8f8qTsIw&sa=U&uoh=3&ved=2ahUKEwihvILSmf6XAxWqN4YAHagKBa0QFnoECBAQAg&usg=AOvVaw0d-iUYAc8X9nVoSMNNlqmP"
 title: "News Releases - Chipotle Mexican Grill"
-description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year."
-scraped_at: "2026-11-08T18:09:04Z"
+description: "Apr 22, 2024. CHIPOTLE INTRODUCES ITS REAL INGREDIENTS TO KUWAIT · Mar 19, 2024. CHIPOTLE BOARD OF DIRECTORS APPROVES 50-FOR-1 STOCK SPLIT · Mar 5, 2024. CHIPOTLE ..."
+scraped_at: "2026-11-10T20:05:46Z"
 ---
 
-# News Releases
+Month Year
 
-These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
-October 2026
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-October 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -39,7 +37,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/news-releases#)
+[Advanced Search](https://ir.chipotle.com/Financial-Releases?o=35#)
 
 Search
 
@@ -57,69 +55,46 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/news-releases#)
+[Basic Search](https://ir.chipotle.com/Financial-Releases?o=35#)
 
-- Oct 28, 2026
-
-
-
-[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
-
-- [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+- Apr 24, 2024
 
 
 
-Oct 26, 2026
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2024 RESULTS](https://ir.chipotle.com/2024-04-24-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2024-RESULTS)
+
+- [![](https://mma.prnewswire.com/media/2393080/Kuwait_Chipotle.jpg?p=thumbnail)](https://ir.chipotle.com/2024-04-22-CHIPOTLE-INTRODUCES-ITS-REAL-INGREDIENTS-TO-KUWAIT)
 
 
 
-[CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASON](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+Apr 22, 2024
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122863-3)
-
-- [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+[CHIPOTLE INTRODUCES ITS REAL INGREDIENTS TO KUWAIT](https://ir.chipotle.com/2024-04-22-CHIPOTLE-INTRODUCES-ITS-REAL-INGREDIENTS-TO-KUWAIT)
 
 
 
-Oct 20, 2026
+  - [PhotosPhotos1](https://ir.chipotle.com/2024-04-22-CHIPOTLE-INTRODUCES-ITS-REAL-INGREDIENTS-TO-KUWAIT#assets_20295_122743-3)
+
+- Mar 19, 2024
 
 
 
-[BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+[CHIPOTLE BOARD OF DIRECTORS APPROVES 50-FOR-1 STOCK SPLIT](https://ir.chipotle.com/2024-03-19-CHIPOTLE-BOARD-OF-DIRECTORS-APPROVES-50-FOR-1-STOCK-SPLIT)
+
+- Mar 5, 2024
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122862-3)
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2024 RESULTS ON APRIL 24, 2024](https://ir.chipotle.com/2024-03-05-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2024-RESULTS-ON-APRIL-24,-2024)
 
-- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-Oct 13, 2026
+- Feb 6, 2024
 
 
 
-[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAG](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2023 RESULTS](https://ir.chipotle.com/2024-02-06-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2023-RESULTS)
 
-
-
-  - [PhotosPhotos5](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122861-3)
-
-- [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-Oct 5, 2026
-
-
-
-[CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLES](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-  - [PhotosPhotos4](https://ir.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122860-3)
 
 Show
 
@@ -127,11 +102,11 @@ Show
 
 per page
 
-- [print](https://ir.chipotle.com/news-releases#print "print")
+- [print](https://ir.chipotle.com/Financial-Releases?o=35#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/news-releases#email "email")
+- [email](https://ir.chipotle.com/Financial-Releases?o=35#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -165,6 +140,4 @@ OKAYPRIVACY POLICY
 
 (opens in a new window)
 
-Twitter Widget Iframe
-
-[5](https://ir.chipotle.com/news-releases?l=5) [10](https://ir.chipotle.com/news-releases?l=10) [25](https://ir.chipotle.com/news-releases?l=25) [50](https://ir.chipotle.com/news-releases?l=50) [100](https://ir.chipotle.com/news-releases?l=100)
+[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
