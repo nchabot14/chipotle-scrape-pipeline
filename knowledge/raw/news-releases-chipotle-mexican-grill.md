@@ -2,7 +2,7 @@
 url: "https://www.google.com/url?opi=89978449&q=CAESagHEIkXXkN43kFCIkOm6ZN3kGxv2PCe8Hrc60KFBIoRtzekC-Q0MvNXs8TOKd99kln2xBAjZiu5cc0kcc-esbCcWrUCT_LHfrAO4wrz5aJsswRpb3ogchNTsSbywuZ20o4GE-4S8f8qTsIw&sa=U&uoh=3&ved=2ahUKEwihvILSmf6XAxWqN4YAHagKBa0QFnoECBAQAg&usg=AOvVaw0d-iUYAc8X9nVoSMNNlqmP"
 title: "News Releases - Chipotle Mexican Grill"
 description: "Apr 22, 2024. CHIPOTLE INTRODUCES ITS REAL INGREDIENTS TO KUWAIT · Mar 19, 2024. CHIPOTLE BOARD OF DIRECTORS APPROVES 50-FOR-1 STOCK SPLIT · Mar 5, 2024. CHIPOTLE ..."
-scraped_at: "2026-11-10T20:05:46Z"
+scraped_at: "2026-11-11T19:55:42Z"
 ---
 
 Month Year

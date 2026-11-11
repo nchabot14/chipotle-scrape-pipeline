@@ -2,7 +2,7 @@
 url: "https://www.google.com/url?opi=89978449&q=CAESZAHEIkXXzrpVhhaVU3kxZpVj-bg0JGlUXrpDD1sk9isNoTFNg_5jdhrqsGEEmEb9WEtL6HHPLOmuwssJL6IMHWpPyv3vHvt73ftKzt3qZRCU_xMhce2GfKtiO79Yt-30Gcff32M&sa=U&uoh=3&ved=2ahUKEwihvILSmf6XAxWqN4YAHagKBa0QFnoECAsQAg&usg=AOvVaw15E3OKkHRF4Lu4XSEzA86j"
 title: "SEC Filings - Chipotle Mexican Grill"
 description: "News Releases · Presentations · SEC Filings · Stock Information · Investment Calculator · Historical Stock Price · Analyst Coverage · Insider Transactions."
-scraped_at: "2026-11-10T20:05:46Z"
+scraped_at: "2026-11-11T19:55:42Z"
 ---
 
 NYSECMG

@@ -2,7 +2,7 @@
 url: "https://www.google.com/url?opi=89978449&q=CAESXQHEIkXXdAwMteOwo3g7VXac3gtnwaxqJW90c2MiTvdhHRpigKmrOJUrhgNlVxuP_4GSUYeJZrFkQllYdx_ofduwjvN9FLZOEZ_H9RFmxMUUwhPWF4-qTEzMZ3jPOg&sa=U&uoh=3&ved=2ahUKEwihvILSmf6XAxWqN4YAHagKBa0QFnoECAkQAg&usg=AOvVaw3A8r3V-XnZHhXbXvUn_Olq"
 title: "Management - Chipotle Mexican Grill"
 description: "News Releases · Presentations · SEC Filings · Stock Information · Investment Calculator · Historical Stock Price · Analyst Coverage · Insider Transactions."
-scraped_at: "2026-11-10T20:05:46Z"
+scraped_at: "2026-11-11T19:55:42Z"
 ---
 
 # Management

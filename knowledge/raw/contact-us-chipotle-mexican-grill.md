@@ -2,7 +2,7 @@
 url: "https://www.google.com/url?opi=89978449&q=CAESXQHEIkXXOEid70NVsuexXI0g4DeJ0JSljnwiiv59hBeztyW4njg6Yf1a7pFXaJ1r9ebowc4wf6aGPGqM9Fqtpks5WKRPIYdutqnLzhIkb1ZpMaFo9uwzFWmSj7lKnw&sa=U&uoh=3&ved=2ahUKEwihvILSmf6XAxWqN4YAHagKBa0QFnoECAUQAg&usg=AOvVaw1uR5CQLwOZMbTnSwRyGILs"
 title: "Contact Us - Chipotle Mexican Grill"
 description: "Chipotle's most recently-available investor relations contact information is available on our quarterly earnings call announcements."
-scraped_at: "2026-11-10T20:05:46Z"
+scraped_at: "2026-11-11T19:55:42Z"
 ---
 
 # Contact Us
