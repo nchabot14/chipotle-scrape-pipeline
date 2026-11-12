@@ -1,8 +1,8 @@
 ---
 url: "https://ir.chipotle.com/"
 title: "Chipotle InvestorRoom - Home"
-description: "Releases Presentations. Oct 28, 2026 CHIPOTLE ANNOUNCES THIRD QUARTER 2026. INCREASE 2.1% 2026 at 4:30 p.m. latest Chipotle news directly"
-scraped_at: "2026-11-09T22:47:15Z"
+description: "Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 ..."
+scraped_at: "2026-11-12T20:32:55Z"
 ---
 
 ### Your Privacy Preferences
@@ -47,9 +47,9 @@ Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of
 
 NYSECMG
 
-$34.43
+$36.64
 
--$0.97
+$0.72
 
 Currency in USD.
 
