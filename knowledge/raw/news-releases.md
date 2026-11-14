@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases"
 description: "News Releases · Nov 9, 2026. CHIPOTLE BRINGS BACK RECORD-BREAKING \"TATTED LIKE A CHIPOTLE BAG\" BOGO ON FRIDAY, NOVEMBER 13 · Oct 28, 2026. CHIPOTLE ANNOUNCES ..."
-scraped_at: "2026-11-13T20:09:40Z"
+scraped_at: "2026-11-14T18:35:43Z"
 ---
 
 # News Releases
