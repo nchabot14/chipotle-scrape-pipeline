@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/news-releases"
 title: "News Releases"
 description: "News Releases · Nov 9, 2026. CHIPOTLE BRINGS BACK RECORD-BREAKING \"TATTED LIKE A CHIPOTLE BAG\" BOGO ON FRIDAY, NOVEMBER 13 · Oct 28, 2026. CHIPOTLE ANNOUNCES ..."
-scraped_at: "2026-11-15T19:11:06Z"
+scraped_at: "2026-11-16T22:39:13Z"
 ---
 
 # News Releases
@@ -59,6 +59,20 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
+- [![](https://mmx.prnewswire.com/media/MS2032392/Chipotle-Mexican-Grill.jpg?id=OA3071235&p=thumbnail)](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
+
+
+
+Nov 16, 2026
+
+
+
+[CHIPOTLE DEBUTS THE "SNEAK IT IN" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIES](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
+
+
+
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES#assets_20295_122866-3)
+
 - [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)](https://ir.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
 
 
@@ -106,20 +120,6 @@ Oct 20, 2026
 
 
   - [PhotosPhotos1](https://ir.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122862-3)
-
-- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-Oct 13, 2026
-
-
-
-[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAG](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-  - [PhotosPhotos5](https://ir.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122861-3)
 
 Show
 
