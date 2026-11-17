@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases"
 description: "CHIPOTLE ANNOUNCES THIRD QUARTER 2026. CHIPOTLE REACHES 1,500. RESULTS ON OCTOBER 28, CHIPOTLE RAISES FULL YEAR COMPARABLE SALES"
-scraped_at: "2026-11-15T19:11:06Z"
+scraped_at: "2026-11-17T21:26:40Z"
 ---
 
 November 2026

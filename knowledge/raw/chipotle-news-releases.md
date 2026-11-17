@@ -1,8 +1,8 @@
 ---
 url: "https://newsroom.chipotle.com/press-releases"
 title: "chipotle news releases"
-description: "News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases. 2026 CHIPOTLE ..."
-scraped_at: "2026-11-16T22:39:13Z"
+description: "CHIPOTLE NEWS RELEASES. News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News ..."
+scraped_at: "2026-11-17T21:26:40Z"
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS2032392/Chipotle-Mexican-Grill.jpg?id=OA3071235&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
+
+
+
+Nov 16, 2026
+
+
+
+[CHIPOTLE DEBUTS THE "SNEAK IT IN" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIESOpens in new window](https://newsroom.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
+
+
+
+
+
+Dropping November 18 at 9 a.m. PT exclusively on ChipotleGoods.com, the limited-edition "Sneak It In" hoodie arrives in time for hit movie releases and holiday gifting The hoodie features a...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES#assets_20295_122901-117)
 
 - [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
 
@@ -134,28 +156,6 @@ With a history of selling out earlier than anticipated, Smoked Brisket returns t
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122895-117)
-
-- [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
-
-
-
-Oct 20, 2026
-
-
-
-[BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
-
-
-
-
-
-Chipotle Rewards members who visit a Chipotle restaurant in costume from 3 p.m. to close on October 31 can score a $6 entrée1 NEWPORT BEACH, Calif., Oct. 20, 2026 /PRNewswire/ -- Some Halloween...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122893-117)
 
 Show
 
