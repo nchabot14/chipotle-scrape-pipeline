@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases"
 title: "News Releases"
 description: "Oct 28, 2026. CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS ; Sep 14, 2026. CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS ; Sep 1, 2026. CHIPOTLE MEXICAN ..."
-scraped_at: "2026-11-22T20:02:52Z"
+scraped_at: "2026-11-24T22:50:26Z"
 ---
 
 November 2026

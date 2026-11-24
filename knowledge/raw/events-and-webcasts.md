@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/events"
 title: "Events and Webcasts"
 description: "Browse the calendar to view Investor related events and announcements. Webcasts and presentations that have been archived are available by viewing historical ..."
-scraped_at: "2026-11-24T00:29:18Z"
+scraped_at: "2026-11-24T22:50:26Z"
 ---
 
 # Events
