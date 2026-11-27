@@ -1,13 +1,9 @@
 ---
-url: "https://ir.chipotle.com/news-releases"
+url: "https://ir.chipotle.com/Financial-Releases?o=20"
 title: "News Releases"
-description: "News Releases. These are news releases that are related to our Investor efforts. Releases are listed in chronological order and are archived by year. Sign-up ..."
-scraped_at: "2026-11-26T22:01:11Z"
+description: "Mar 18, 2025. CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2025 RESULTS ON APRIL 23, 2025 ; Feb 4, 2025. CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2024 ..."
+scraped_at: "2026-11-27T21:44:27Z"
 ---
-
-# News Releases
-
-These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
 November 2026
 
@@ -39,7 +35,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/news-releases#)
+[Advanced Search](https://ir.chipotle.com/Financial-Releases?o=20#)
 
 Search
 
@@ -57,69 +53,53 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/news-releases#)
+[Basic Search](https://ir.chipotle.com/Financial-Releases?o=20#)
 
-- [![](https://mmx.prnewswire.com/media/MS2040452/Back-Home-Bogo-PR.jpg?id=OA3093340&p=thumbnail)](https://ir.chipotle.com/2026-11-20-CHIPOTLE-BRINGS-BACK-BACK-HOME-BOGO-FOR-THE-BIGGEST-REUNION-NIGHT-OF-THE-YEAR)
-
-
-
-Nov 20, 2026
+- Mar 18, 2025
 
 
 
-[CHIPOTLE BRINGS BACK "BACK HOME BOGO" FOR THE BIGGEST REUNION NIGHT OF THE YEAR](https://ir.chipotle.com/2026-11-20-CHIPOTLE-BRINGS-BACK-BACK-HOME-BOGO-FOR-THE-BIGGEST-REUNION-NIGHT-OF-THE-YEAR)
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2025 RESULTS ON APRIL 23, 2025](https://ir.chipotle.com/2025-03-18-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2025-RESULTS-ON-APRIL-23,-2025)
+
+- Feb 4, 2025
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-11-20-CHIPOTLE-BRINGS-BACK-BACK-HOME-BOGO-FOR-THE-BIGGEST-REUNION-NIGHT-OF-THE-YEAR#assets_20295_122867-3)
+[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2024 RESULTS](https://ir.chipotle.com/2025-02-04-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2024-RESULTS)
 
-- [![](https://mmx.prnewswire.com/media/MS2032392/Chipotle-Mexican-Grill.jpg?id=OA3071235&p=thumbnail)](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
-
-
-
-Nov 16, 2026
+- [![](https://mma.prnewswire.com/media/2598324/Chipotle_Plantible_Duckweed.jpg?p=thumbnail)](https://ir.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED)
 
 
 
-[CHIPOTLE DEBUTS THE "SNEAK IT IN" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIES](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES)
+Jan 15, 2025
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES#assets_20295_122866-3)
-
-- [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)](https://ir.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+[CHIPOTLE'S CULTIVATE NEXT FUND INVESTS IN AQUATIC PLANT-BASED TECHNOLOGIES THAT AIM TO EMULATE ANIMAL PROTEIN AND SCALE MORE SUSTAINABLE CATTLE FEED](https://ir.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED)
 
 
 
-Nov 9, 2026
+  - [PhotosPhotos2](https://ir.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED#assets_20295_122775-3)
+
+- Dec 3, 2024
 
 
 
-[CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13](https://ir.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FOURTH QUARTER AND FULL YEAR 2024 RESULTS ON FEBRUARY 4, 2025](https://ir.chipotle.com/2024-12-03-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FOURTH-QUARTER-AND-FULL-YEAR-2024-RESULTS-ON-FEBRUARY-4,-2025)
+
+- [![](https://mma.prnewswire.com/media/2554215/2024_ScottBoatwright_Chipotle_CEO.jpg?p=thumbnail)](https://ir.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD)
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13#assets_20295_122865-3)
-
-- Oct 28, 2026
+Nov 11, 2024
 
 
 
-[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
-
-- [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+[CHIPOTLE NAMES SCOTT BOATWRIGHT CHIEF EXECUTIVE OFFICER AND MEMBER OF THE BOARD](https://ir.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD)
 
 
 
-Oct 26, 2026
-
-
-
-[CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASON](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
-
-
-
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122863-3)
+  - [PhotosPhotos1](https://ir.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD#assets_20295_122770-3)
 
 Show
 
@@ -127,11 +107,11 @@ Show
 
 per page
 
-- [print](https://ir.chipotle.com/news-releases#print "print")
+- [print](https://ir.chipotle.com/Financial-Releases?o=20#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/news-releases#email "email")
+- [email](https://ir.chipotle.com/Financial-Releases?o=20#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -167,4 +147,4 @@ OKAYPRIVACY POLICY
 
 Twitter Widget Iframe
 
-[5](https://ir.chipotle.com/news-releases?l=5) [10](https://ir.chipotle.com/news-releases?l=10) [25](https://ir.chipotle.com/news-releases?l=25) [50](https://ir.chipotle.com/news-releases?l=50) [100](https://ir.chipotle.com/news-releases?l=100)
+[5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)

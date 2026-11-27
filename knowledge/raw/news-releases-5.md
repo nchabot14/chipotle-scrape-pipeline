@@ -1,33 +1,33 @@
 ---
-url: "https://ir.chipotle.com/Financial-Releases"
+url: "https://ir.chipotle.com/Financial-Releases?l=25&o=100"
 title: "News Releases"
-description: "CHIPOTLE RAISES FULL YEAR COMPARABLE SALES. RESULTS ON JULY 29, CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS Apr 27,"
-scraped_at: "2026-08-31T19:18:30Z"
+description: "Current Chairman, CEO and Founder Steve Ells to Become Executive Chairman with Primary Focus on Innovation Upon Completion of Search. Oct 24, 2017."
+scraped_at: "2026-11-27T21:44:27Z"
 ---
 
-August 2026
+November 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
-August 2026
+November 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
@@ -35,7 +35,7 @@ Cancel Go
 
 YearAll Years20262025202420232022202120202019201820172016CategoryAll CategoriesFinancial ReleasesUncategorizedKeywordsGo
 
-[Advanced Search](https://ir.chipotle.com/Financial-Releases#)
+[Advanced Search](https://ir.chipotle.com/Financial-Releases?l=25&o=100#)
 
 Search
 
@@ -53,58 +53,198 @@ Asset Types
 
 PhotosAudioDocumentsEventsStandard
 
-[Basic Search](https://ir.chipotle.com/Financial-Releases#)
+[Basic Search](https://ir.chipotle.com/Financial-Releases?l=25&o=100#)
 
-- Jul 29, 2026
-
-
-
-[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
-
-- [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+- Oct 18, 2018
 
 
 
-Jul 13, 2026
+[Chipotle Mexican Grill To Announce Third Quarter Results On October 25](https://ir.chipotle.com/2018-10-18-Chipotle-Mexican-Grill-To-Announce-Third-Quarter-Results-On-October-25)
+
+- [![](https://mma.prnewswire.com/media/723463/Chipotle_Mexican_Grill_Inc_Brian_Niccol_CEO.jpg?p=thumbnail)](https://ir.chipotle.com/2018-07-26-Chipotle-Announces-Second-Quarter-2018-Results)
 
 
 
-[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+Jul 26, 2018
 
 
 
-  - [PhotosPhotos2](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122843-3)
-
-- Jun 2, 2026
+[Chipotle Announces Second Quarter 2018 Results](https://ir.chipotle.com/2018-07-26-Chipotle-Announces-Second-Quarter-2018-Results)
 
 
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://ir.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
-
-- Apr 29, 2026
+SALES COMP ACCELERATED, DRIVING 8.3% REVENUE INCREASE AND RESTAURANT MARGIN EXPANSION TO 19.7%
 
 
 
-[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+  - [PhotosPhotos1](https://ir.chipotle.com/2018-07-26-Chipotle-Announces-Second-Quarter-2018-Results#assets_20295_122475-3)
 
-- Apr 27, 2026
+- Jun 13, 2018
 
 
 
-[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+[Chipotle Mexican Grill Will Announce Second Quarter Results On July 26](https://ir.chipotle.com/2018-06-13-Chipotle-Mexican-Grill-Will-Announce-Second-Quarter-Results-On-July-26)
+
+- May 15, 2018
+
+
+
+[Chipotle Mexican Grill, Inc. To Hold Special Investor Call On June 27](https://ir.chipotle.com/2018-05-15-Chipotle-Mexican-Grill-Inc-To-Hold-Special-Investor-Call-On-June-27)
+
+- Apr 25, 2018
+
+
+
+[Chipotle First Quarter Earnings Per Share Increases 33% To $2.13 On Revenue Increase Of 7.4%](https://ir.chipotle.com/2018-04-25-Chipotle-First-Quarter-Earnings-Per-Share-Increases-33-To-2-13-On-Revenue-Increase-Of-7-4)
+
+- Apr 20, 2018
+
+
+
+[Chipotle Names Marissa Andrada Chief Human Resources Officer](https://ir.chipotle.com/2018-04-20-Chipotle-Names-Marissa-Andrada-Chief-Human-Resources-Officer)
+
+- Mar 22, 2018
+
+
+
+[Chipotle Mexican Grill, Inc. To Announce First Quarter 2018 Results On April 25, 2018](https://ir.chipotle.com/news-releases?item=122459)
+
+- Mar 20, 2018
+
+
+
+[Chipotle Names Chris Brandt Chief Marketing Officer](https://ir.chipotle.com/news-releases?item=122457)
+
+- Mar 6, 2018
+
+
+
+[Chipotle Grants CEO Brian Niccol Inducement Awards Pursuant To NYSE Rule 303A.08](https://ir.chipotle.com/news-releases?item=122456)
+
+- Feb 13, 2018
+
+
+
+[Chipotle Names Brian Niccol Chief Executive Officer](https://ir.chipotle.com/news-releases?item=122376)
+
+- Feb 6, 2018
+
+
+
+[Chipotle Fourth Quarter Earnings Per Share Grows 182% to $1.55 on Revenue Increase of 7.3%](https://ir.chipotle.com/news-releases?item=122379)
+
+- Jan 9, 2018
+
+
+
+[Chipotle Mexican Grill, Inc. to Announce Fourth Quarter and Full Year 2017 Results on February 6, 2018](https://ir.chipotle.com/news-releases?item=122381)
+
+- Nov 29, 2017
+
+
+
+[Chipotle Begins Search for New CEO](https://ir.chipotle.com/news-releases?item=122384)
+
+
+
+Current Chairman, CEO and Founder Steve Ells to Become Executive Chairman with Primary Focus on Innovation Upon Completion of Search
+
+- Oct 24, 2017
+
+
+
+[Chipotle Third Quarter Diluted EPS Increased 155% on 8.8% Revenue Growth](https://ir.chipotle.com/news-releases?item=122387)
+
+- Sep 25, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. to Announce Third Quarter Results on October 24, 2017](https://ir.chipotle.com/news-releases?item=122391)
+
+- Aug 14, 2017
+
+
+
+[Chipotle Names Laurie Schalow Chief Communications Officer](https://ir.chipotle.com/news-releases?item=122397)
+
+
+
+Schalow brings more than 20 years of integrated communications experience to Chipotle executive team
+
+- Jul 25, 2017
+
+
+
+[Chipotle Second Quarter Diluted EPS Increased 167% on Comparable Restaurant Sales Increase of 8.1% and Revenue Growth of 17.1%](https://ir.chipotle.com/news-releases?item=122398)
+
+- Jun 28, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. to Announce Second Quarter Results on July 25, 2017](https://ir.chipotle.com/news-releases?item=122400)
+
+- May 11, 2017
+
+
+
+[Chipotle Names Scott Boatwright Chief Restaurant Officer](https://ir.chipotle.com/news-releases?item=122403)
+
+
+
+Boatwright brings nearly 20 years of restaurant operations experience to Chipotle executive team
+
+- Apr 25, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. Announces First Quarter 2017 Results](https://ir.chipotle.com/news-releases?item=122407)
+
+- Apr 4, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. to Announce First Quarter Results on April 25, 2017](https://ir.chipotle.com/news-releases?item=122409)
+
+- Feb 2, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. Announces Fourth Quarter and Full Year 2016 Results](https://ir.chipotle.com/news-releases?item=122415)
+
+- Jan 9, 2017
+
+
+
+[Chipotle Mexican Grill, Inc. to Present at ICR Conference 2017](https://ir.chipotle.com/news-releases?item=122419)
+
+- Dec 22, 2016
+
+
+
+[Chipotle Mexican Grill, Inc. to Announce Fourth Quarter and Full Year 2016 Results on February 2, 2017](https://ir.chipotle.com/news-releases?item=122421)
+
+- Dec 16, 2016
+
+
+
+[Chipotle Names Four New Directors as Part of Board Refresh Initiative](https://ir.chipotle.com/news-releases?item=122422)
+
+
+
+Paul Cappuccio, Robin Hickenlooper, Ali Namvar and Matthew Paull Join Chipotle Board of Directors
 
 
 Show
 
-5Open
+25Open
 
 per page
 
-- [print](https://ir.chipotle.com/Financial-Releases#print "print")
+- [print](https://ir.chipotle.com/Financial-Releases?l=25&o=100#print "print")
 - [Facebook Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
 - [Linkedin Share](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
 - [Twitter Share](https://twitter.com/share?url=https%3A%2F%2Fir.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
-- [email](https://ir.chipotle.com/Financial-Releases#email "email")
+- [email](https://ir.chipotle.com/Financial-Releases?l=25&o=100#email "email")
 - [rss](https://ir.chipotle.com/index.php?s=95&rsspage=20295 "rss")
 
 [Close modal](https://www.chipotle.com/whats-new#)
@@ -135,6 +275,8 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe
 

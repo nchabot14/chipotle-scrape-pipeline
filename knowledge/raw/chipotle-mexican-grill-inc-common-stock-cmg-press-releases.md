@@ -1,17 +1,8 @@
 ---
 url: "https://www.nasdaq.com/market-activity/stocks/cmg/press-releases"
 title: "Chipotle Mexican Grill, Inc. Common Stock (CMG) Press Releases"
-description: "### Press Releases
-$36.76 X 207
-
-Ask:$36.84 X 100
-
-Volume:451,518.072593
-
-28.04 - 42.82
-
-36.03 - 36.92"
-scraped_at: "2026-09-14T18:15:58Z"
+description: "Get the latest insights on Chipotle Mexican Grill, Inc. Common Stock (CMG) with press releases and corporate news to help you in your trading and investing ..."
+scraped_at: "2026-11-27T21:44:27Z"
 ---
 
 [Skip to main content](https://www.nasdaq.com/market-activity/stocks/cmg/press-releases#main-content)
@@ -54,43 +45,53 @@ Press Releases
 - Insider Activity
 - SEC Filings
 
-$36.78
-$36.78
+$37.32
+$37.32
 
-+0.58
-+0.58
+-0.02
+ -0.02
 
-+1.60%
-+1.60%
+-0.05%
+ -0.05%
 
-Sep 14, 2026 9:36 AM ET
+Nov 27, 2026 4:44 PM ET
 
 
 +
 
+$37.34
+$37.34
+
+-0.06
+ -0.06-0.16%
+ -0.16%
+
+Closed at Nov 27, 2026 1:00 PM ET
+Closed at Nov 27, 2026 1:00 PM ET
+
 Alerts
 
 Market:
-Market: Open
+Market: After-Hours
 
 Chipotle Mexican Grill, Inc. Common Stock (CMG)
 
 Bid:
-$36.76 X 207
+$37.18 X 500
 
-Ask:$36.84 X 100
+Ask:$37.90 X 50
 
-Volume:451,518.072593
+Volume:6,753,083.426500
 
 52 Week Range:
 
 
-28.04 - 42.82
+27.31 - 41.42
 
 High/Low:
 
 
-36.03 - 36.92
+37.16 - 37.80
 
 
 CMG Alerts×
@@ -126,84 +127,84 @@ Chipotle Mexican Grill, Inc. Common Stock (CMG) Press Releases
 _info_Data is currently not available
 Data is currently not availableData is currently not available
 
-### CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL
+### CHIPOTLE BRINGS BACK "BACK HOME BOGO" FOR THE BIGGEST REUNION NIGHT OF THE YEAR
 
-CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL
+CHIPOTLE BRINGS BACK "BACK HOME BOGO" FOR THE BIGGEST REUNION NIGHT OF THE YEAR
 
-Sep 2, 2026
-Sep 2, 2026•
+Nov 20, 2026
+Nov 20, 2026•
 •
 
-### CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026
+### CHIPOTLE DEBUTS THE "SNEAK IT IN" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIES
 
-CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026
+CHIPOTLE DEBUTS THE "SNEAK IT IN" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIES
 
-Sep 1, 2026
-Sep 1, 2026•
+Nov 16, 2026
+Nov 16, 2026•
 •
 
-### CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPS
+### CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13
 
-CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPS
+CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13
 
-Aug 31, 2026
-Aug 31, 2026•
+Nov 9, 2026
+Nov 9, 2026•
 •
 
-### CHIPOTLE OFFERS FREE DOUBLE PROTEIN ON AUGUST 27 TO CELEBRATE CHIPOTLE HONEY CHICKEN'S FINAL WEEK
+### Earnings Gaps and a Lost 50-Day Line Set the Levels Chart Watchers Have Circled
 
-CHIPOTLE OFFERS FREE DOUBLE PROTEIN ON AUGUST 27 TO CELEBRATE CHIPOTLE HONEY CHICKEN'S FINAL WEEK
+Earnings Gaps and a Lost 50-Day Line Set the Levels Chart Watchers Have Circled
 
-Aug 26, 2026
-Aug 26, 2026•
+Nov 4, 2026
+Nov 4, 2026•
 •
 
-### CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK
+### CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS
 
-CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK
+CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS
 
-Aug 24, 2026
-Aug 24, 2026•
+Oct 28, 2026
+Oct 28, 2026•
 •
 
-### CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES
+### CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASON
 
-CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES
+CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASON
 
-Aug 19, 2026
-Aug 19, 2026•
+Oct 26, 2026
+Oct 26, 2026•
 •
 
-### CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL
+### BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026
 
-CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL
+BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026
 
-Aug 17, 2026
-Aug 17, 2026•
+Oct 20, 2026
+Oct 20, 2026•
 •
 
-### CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH
+### CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAG
 
-CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH
+CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAG
 
-Aug 13, 2026
-Aug 13, 2026•
+Oct 13, 2026
+Oct 13, 2026•
 •
 
-### CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME
+### CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLES
 
-CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME
+CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLES
 
-Aug 11, 2026
-Aug 11, 2026•
+Oct 5, 2026
+Oct 5, 2026•
 •
 
-### CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM
+### CHIPOTLE SUMMONS THE RETURN OF MARGARITAS IN THE COUNTDOWN TO BOORITO
 
-CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM
+CHIPOTLE SUMMONS THE RETURN OF MARGARITAS IN THE COUNTDOWN TO BOORITO
 
-Jul 29, 2026
-Jul 29, 2026•
+Sep 28, 2026
+Sep 28, 2026•
 •
 
 Rows per page:
@@ -216,7 +217,7 @@ Rows per page:
 100
 _arrow\_drop\_down_
 
-Showing 1-10 of 80
+Showing 1-10 of 92
 
 
 ### About Press Releases  About Press ReleasesAbout Press Releases
@@ -244,11 +245,16 @@ _keyboard\_arrow\_up__keyboard\_arrow\_down_
 
 \+ Add symbols now or see the quotes that matter to you, anywhere on Nasdaq.com. Start browsing [Stocks](https://www.nasdaq.com/market-activity/stocks), [Funds](https://www.nasdaq.com/market-activity/mutual-fund), [ETFs](https://www.nasdaq.com/market-activity/etf) and [more asset classes.](https://www.nasdaq.com/market-activity)
 
-/
+1/2
+
+- [CMG\\
+$37.32\\
+\\
+  -0.02-0.05%](https://www.nasdaq.com/market-activity/stocks/cmg)
 
 \+ Add instruments now or see the quotes that matter to you, anywhere on Nasdaq.com. Start browsing [Shares](https://www.nasdaq.com/european-market-activity/shares), [Indexes](https://www.nasdaq.com/european-market-activity/indexes), [ETP](https://www.nasdaq.com/european-market-activity/etp) and [more asset classes.](https://www.nasdaq.com/european-market-activity)
 
-/
+1/1
 
 Your Watchlist is empty.
 \+ Add/Edit Symbols
@@ -263,8 +269,6 @@ _close_Close Info Toast
 
 
 Watch Live Bell Ceremony
-
-Harmonic Inc. Rings the Opening Bell
 
 By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 [Cookie Policy](https://www.nasdaq.com/cookie-statement)
