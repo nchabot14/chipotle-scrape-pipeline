@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases?o=20"
 title: "News Releases"
 description: "Mar 18, 2025. CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2025 RESULTS ON APRIL 23, 2025 ; Feb 4, 2025. CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2024 ..."
-scraped_at: "2026-11-27T21:44:27Z"
+scraped_at: "2026-11-28T20:39:37Z"
 ---
 
 November 2026

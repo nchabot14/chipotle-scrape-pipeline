@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases?l=10&o=20"
 title: "News Releases"
 description: "Feb 4, 2025. CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2024 RESULTS · Jan 15, 2025. CHIPOTLE'S CULTIVATE NEXT FUND INVESTS IN AQUATIC PLANT-BASED ..."
-scraped_at: "2026-11-27T21:44:27Z"
+scraped_at: "2026-11-28T20:39:37Z"
 ---
 
 ### Your Privacy Preferences

@@ -2,7 +2,7 @@
 url: "https://ir.chipotle.com/Financial-Releases?l=25&o=100"
 title: "News Releases"
 description: "Current Chairman, CEO and Founder Steve Ells to Become Executive Chairman with Primary Focus on Innovation Upon Completion of Search. Oct 24, 2017."
-scraped_at: "2026-11-27T21:44:27Z"
+scraped_at: "2026-11-28T20:39:37Z"
 ---
 
 November 2026

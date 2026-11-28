@@ -1,8 +1,17 @@
 ---
 url: "https://www.nasdaq.com/market-activity/stocks/cmg/press-releases"
 title: "Chipotle Mexican Grill, Inc. Common Stock (CMG) Press Releases"
-description: "Get the latest insights on Chipotle Mexican Grill, Inc. Common Stock (CMG) with press releases and corporate news to help you in your trading and investing ..."
-scraped_at: "2026-11-27T21:44:27Z"
+description: "### Press Releases
+$37.34 $37.34
+
+$37.18 X 500
+
+Ask:$37.90 X 50
+
+27.31 - 41.42
+
+37.16 - 37.80"
+scraped_at: "2026-11-28T20:39:37Z"
 ---
 
 [Skip to main content](https://www.nasdaq.com/market-activity/stocks/cmg/press-releases#main-content)
